@@ -1,0 +1,1399 @@
+Sample	Sample	Run1	Issues	Requirement	Run2	Issues	Requirements	Run3	Issues	Requirements
+869	1387				875					
+x	253719	mt28	16355del?	chạy lại PCR --> PCR-bigdye HV1R mồi dài	20250524_mtDNA_28_8 mau	None	trả KQ			
+x	253721	mt28	16355del?	chạy lại PCR --> PCR-bigdye HV1R mồi dài	20250524_mtDNA_28_8 mau	None	trả KQ			
+x	253777	mt28	HV2F fail	chạy lại PCR-bigdye HV2F	20250524_mtDNA_28_8 mau	None	trả KQ			
+x	253779	mt28	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250524_mtDNA_28_8 mau	73-302 438-576 16024-16365_nhiễu sau polyC	trả KQ			
+x	253780	mt28	HV3R dyeblob	chạy lại PCR-bigdye HV3R	20250524_mtDNA_28_8 mau	None	trả KQ			
+x	253784	mt28	16355del?	chạy lại PCR --> PCR-bigdye HV1R mồi dài	20250524_mtDNA_28_8 mau	None	trả KQ			
+x	253785	mt28	16355del?	chạy lại PCR --> PCR-bigdye HV1R mồi dài	20250524_mtDNA_28_8 mau	None	trả KQ			
+X	253795	mt28	HV1R: 16194M? 16195Y?	chạy lại PCR --> PCR-bigdye HV1R	20250524_mtDNA_28_8 mau	None	trả KQ			
+x	253895	mt30	HV2F nền cao	chạy lại PCR-bigdye HV2F	20250524_mtDNA_30_4samples	HV2F nền cao	trả KQ			kết hợp data NGS trả KQ
+x	253947	mt30	HV3 polyC	chạy PCR-bigdye bổ sung HV3F	20250524_mtDNA_30_4samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	253963	mt30	HV3 polyC	chạy PCR-bigdye bổ sung HV3F	20250524_mtDNA_30_4samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	253982	mt30	HV3 5AC	chạy PCR-bigdye bổ sung HV3F	20250524_mtDNA_30_4samples	73-302 438-522 16024-16365_Nhiễu sau polyC ở HV2F và AC repeat ở HV3F	trả KQ			
+x	254234	mt31	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250524_mtDNA_31_3 SAMPLES	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	254262	mt31	HV3 AC repeats	chạy PCR-bigdye bổ sung HV3F	20250524_mtDNA_31_3 SAMPLES	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	254275	mt31	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250524_mtDNA_31_3 SAMPLES	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	254661	mt34	HV1R: 16194M? 16195Y?	chạy lại PCR --> PCR-bigdye HV1R	20250524_mtDNA_34_2samples	None	trả KQ			
+x	254680	mt34	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250524_mtDNA_34_2samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	255134	mt36	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250524_mtDNA_36_3samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	255148	mt36	HV2F peak spike	chạy lại PCR-bigdye HV2F	20250524_mtDNA_36_3samples	None	trả KQ			
+x	255177	mt36	HV3 nền cao	chạy lại PCR-bigdye HV3R	20250524_mtDNA_36_3samples	None	trả KQ			
+x	255575	mt38	HV1F dyeblob	chạy lại PCR-bigdye HV1F	20250524_mtDNA_38_255575	None	trả KQ			
+x	255235	mt37	HV3R dyeblob	chạy lại PCR-bigdye HV3R	20250524_mtDNA_37_3samples	None	trả KQ			
+x	255277	mt37	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250524_mtDNA_37_3samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	255533	mt37	HV2F peak spike	chạy lại PCR-bigdye HV2F	20250524_mtDNA_37_3samples	None	trả KQ			
+x	256030	mt40	HV2F nhiễu	chạy lại PCR-bigdye HV2F	20250524_mtDNA_40_256030	None	trả KQ			
+x	256043	mt40	NHIỄM MẪU	chạy lại từ bước tách chiết	mt52	None	Loại bỏ dịch tách ADN và data run1 (mt40), trả kết quả tương ứng data run2 (mt52)			
+x	256009	mt39	khả năng nhiễm mẫu	chạy lại từ bước tách chiết	mt52	None	trả kết quả kết hợp giữa data run 1 (mt39) và run 2 (mt52)			
+x	256189	mt41	HV1F nhiễu	chạy lại PCR-bigdye HV1F	20250524_mtDNA_41_4samples	None	trả KQ			
+x	256113	mt41	HV2F nhiễu, HV1F nhiễu	chạy lại PCR-bigdye HV1F, HV2F	20250524_mtDNA_41_4samples	None	trả KQ			
+x	256115	mt41	HV1F nhiễu	chạy lại PCR-bigdye HV1F	20250524_mtDNA_41_4samples	None	trả KQ			
+x	256129	mt41	HV1F nhiễu	chạy lại PCR-bigdye HV1F	20250524_mtDNA_41_4samples	None	trả KQ			
+x	256274	mt42	HV3R nhiễu	chạy lại PCR-bigdye HV3R	20250524_mtDNA_42_256274	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	256735	mt44	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250524_mtDNA_44_3samples	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	trả KQ			
+x	256752	mt44	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250524_mtDNA_44_3samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	256786	mt44	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250524_mtDNA_44_3samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	257102	mt45	HV2F nhiễu	chạy lại PCR-bigdye HV2F	20250524_mtDNA_45_5samples	None	trả KQ			
+x	257121	mt45	HV2F nhiễu	chạy lại PCR-bigdye HV2F	20250524_mtDNA_45_5samples	None	trả KQ			
+x	257126	mt45	HV2F nhiễu, HV3R polyC	chạy lại PCR-bigdye HV2F, chạy bổ sung HV3F	20250524_mtDNA_45_5samples	None	trả KQ			
+x	257134	mt45	HV2F nhiễu, HV3R polyC	chạy lại PCR-bigdye HV2F, chạy bổ sung HV3F	20250524_mtDNA_45_5samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	257135	mt45	4 trình tự failed	chạy lại từ tách hoặc PCR tùy thuộc kết quả QC	20250702_mtDNA_45_257135	None	trả KQ			
+x	257142	mt45	HV2F failed, HV3R tín hiệu yếu	chạy lại PCR-bigdye HV2F, HV3R	20250524_mtDNA_45_5samples	None	trả KQ			
+x	257206	mt46	HV2F fail	chạy lại PCR-bigdye HV2F	20250524_mtDNA_46_3samples	None	trả KQ			
+x	257221	mt46	HV3R nhiễu	chạy lại PCR-bigdye HV3R, chạy bổ sung HV3F	20250524_mtDNA_46_3samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	257241	mt46	HV3R nhiễu	chạy lại PCR-bigdye HV3R, chạy bổ sung HV3F	20250524_mtDNA_46_3samples	None	trả KQ			
+x	257279	mt47	HV3R nhiễu	chạy lại PCR-bigdye HV3R, chạy bổ sung HV3F	20250624_mtDNA_47_8 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	257296	mt47	HV1F nhiễu, HV3R failed	chạy lại PCR-bigdye HV1F và HV3R, chạy bổ sung HV3F	20250624_mtDNA_47_8 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	257298	mt47	HV1F nhiễu	chạy lại PCR-bigdye HV1F	20250624_mtDNA_47_8 mẫu	NONE	trả KQ			
+x	257315	mt47	HV3R nhiễu	chạy lại PCR-bigdye HV3R, chạy bổ sung HV3F	20250624_mtDNA_47_8 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	257318	mt47	HV3R nhiễu	chạy lại PCR-bigdye HV3R	20250624_mtDNA_47_8 mẫu	NONE	trả KQ			
+x	257320	mt47	HV1R failed	chạy lại PCR-bigdye HV1R	20250624_mtDNA_47_8 mẫu	NONE	trả KQ			
+x	257321	mt47	HV3R nhiễu	chạy lại PCR-bigdye HV3R, chạy bổ sung HV3F	20250624_mtDNA_47_8 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	257715	mt47	khả năng nhiễm mẫu	chạy lại từ bước tách chiết	20250624_mtDNA_47_8 mẫu	vẫn mixed	tách lại cả 2 ống máu -> GTT lại	20250710_mtDNA_47_257715		trả KQ
+x	257751	mt48	HV2F nhiễu	chạy lại PCR-bigdye HV2F	20250624_mtDNA_48_6 mẫu	NONE	trả KQ			
+x	257771	mt48	HV3R nhiễu	chạy lại PCR-bigdye HV3R	20250624_mtDNA_48_6 mẫu	NONE	trả KQ			
+x	257773	mt48	HV1F nhiễu	chạy lại PCR-bigdye HV1F	20250624_mtDNA_48_6 mẫu	NONE	trả KQ			
+x	257780	mt48	HV1F, HV3R nhiễu	chạy lại PCR-bigdye HV1F, HV3R	20250624_mtDNA_48_6 mẫu	NONE	trả KQ			
+x	257781	mt48	HV3R nhiễu	chạy lại PCR-bigdye HV3R	20250624_mtDNA_48_6 mẫu	NONE	trả KQ			
+x	257782	mt48	HV1F nhiễu, HV1R dyeblob	chạy lại PCR-bigdye HV1F, HV1R	20250624_mtDNA_48_6 mẫu	NONE	trả KQ			
+x	256694	mt43	HV1F nhiễu	chạy lại PCR-bigdye HV1F	20250624_mtDNA_43_2 mẫu	NONE	trả KQ			
+x	256717	mt43	HV1F nhiễu	chạy lại PCR-bigdye HV1F	20250624_mtDNA_43_2 mẫu	NONE	trả KQ			
+x	257851	mt49	HV2F dyeblob	chạy lại PCR-bigdye HV2F	20250624_mtDNA_49_2 mẫu	1R dyeblob	rePCR-BD 1R	20250710_mtDNA_49_257851		trả KQ
+x	257879	mt49	HV3R nhiễu	chạy lại PCR-bigdye HV3R, chạy bổ sung HV3F	20250624_mtDNA_49_2 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	258467	mt52	tín hiệu polyC HV1 phức tạp	tạm giữ lại để phân tích tiếp --> tách lại	20250707_mtDNA_52_258467	none	trả KQ	2517569 có LS trùng tên nhưng hồ sơ khác --> ko check được để phân tích --> tách lại		
+x	258390	mt51	tín hiệu polyC HV1 phức tạp	tạm giữ lại để phân tích tiếp --> tách lại	20250624_mtDNA_51_2 mẫu	none	kết hợp 3 run trả KQ	20250707_mtDNA_51_258390		Trả KQ
+x	258383	mt51	HV2F fail	chạy lại PCR-bigdye HV2F	20250624_mtDNA_51_2 mẫu	NONE	Trả KQ			
+x	259138	mt55	HV3R dyeblob	chạy lại PCR-bigdye HV3R	20250624_mtDNA_55_1 mẫu	NONE	trả KQ			
+x	259350	mt57	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_57_1 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	259883	mt58	HV2F ngắn	chạy lại PCR-bigdye HV2F	20250624_mtDNA_58_1 mẫu	NONE	trả KQ			
+x	2510396	mt61	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_61_2 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2510407	mt61	HV1R tín hiệu yếu	chạy lại PCR-bigdye HV1R	20250624_mtDNA_61_2 mẫu	NONE	trả KQ			
+x	2510733	mt62	tín hiệu HV3 phức tạp	tạm giữ lại để phân tích tiếp --> tách lại	20250707_mtDNA_62_2510733	none	trả KQ			
+x	2510321	mt66	HV1F nhiễu	chạy lại PCR-bigdye HV1F	20250624_mtDNA_66_1 mẫu	NONE	trả KQ			
+x	2510884	mt64	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_64_1 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2510527	mt67	HV1F nền cao	chạy lại PCR-bigdye HV1F	20250624_mtDNA_67_1 mẫu	NONE	trả KQ			
+x	2511471	mt69	HV1F nền cao	chạy lại PCR-bigdye HV1F	20250624_mtDNA_69_5 mẫu	None	trả KQ			
+x	2511472	mt69	HV1F nền cao	chạy lại PCR-bigdye HV1F	20250624_mtDNA_69_5 mẫu	None	trả KQ			
+x	2511474	mt69	HV3R, HV1F nền cao	chạy lại PCR-bigdye HV1F, HV3R	20250624_mtDNA_69_5 mẫu	None	trả KQ			
+x	2511506	mt69	HV1F nền cao	chạy lại PCR-bigdye HV1F	20250624_mtDNA_69_5 mẫu	None	trả KQ			
+x	2511507	mt69	HV1F nền cao	chạy lại PCR-bigdye HV1F	20250624_mtDNA_69_5 mẫu	None	trả KQ			
+x	2511728	mt72	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_72_1 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2511814	mt73	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_73_2 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2511849	mt73	HV3 AC repeat	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_73_2 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2512655	mt77	HV3 AC repeat	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_77_1 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2513901	mt78	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_78_6 mẫu	None	trả KQ			
+x	2520477	mt78	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_78_6 mẫu	None	trả KQ			
+x	2520522	mt78	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_78_6 mẫu	None	trả KQ			
+x	2520523	mt78	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_78_6 mẫu	None	trả KQ			
+x	2520528	mt78	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_78_6 mẫu	None	trả KQ			
+x	2520530	mt78	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_78_6 mẫu	None	trả KQ			
+x	2511679	mt71	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_71_1 mẫu	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	trả KQ			
+x	2512544	mt76	HV3R nền cao	chạy bổ sung PCR bigdye HV3R, HV3F	20250624_mtDNA_76_1 mẫu	None	trả KQ			
+x	2512560	mt76	nhiều hetero	chạy lại từ bước tách	mt103	None	Loại bỏ dịch tách ADN và data run1 (mt76), trả kết quả tương ứng data run2 (mt103)			
+x	2512414	mt75	HV3 nhiễu (AC repeat)	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_75_2 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2512488	mt75	HV3 nhiễu (AC repeat)	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_75_2 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2513841	mt80	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_80_2 mẫu	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	trả KQ			
+x	2513875	mt80	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_80_2 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2515514	mt88	HV2F ngắn	chạy lại PCR-bigdye HV2F	20250624_mtDNA_88_4 mẫu	None	trả KQ			
+x	2515517	mt88	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_88_4 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2515519	mt88	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_88_4 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2515554	mt88	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_88_4 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2513942	mt81	HV3 polyC	chạy bổ sung PCR-bigdye HV3F	20250624_mtDNA_81_4 mẫu	None	trả KQ			
+x	2513993	mt81	2F, 3R không khớp?	chạy lại PCR --> PCR-bigdye 2F, 3R	20250624_mtDNA_81_4 mẫu	None	trả KQ			
+x	2514002	mt81	tín hiệu HV2 phức tạp	tạm giữ lại để phân tích tiếp --> tách lại	20250707_mtDNA_81_2514002	none	trả KQ			
+x	2514003	mt81	2F dyeblob	chạy lại PCR-bigdye 2F	20250624_mtDNA_81_4 mẫu	None	trả KQ			
+x	2514083	mt82	HV3 polyC	chạy bổ sung PCR-bigdye 3F	20250624_mtDNA_82_2 mẫu	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	trả KQ			
+x	2514118	mt82	3R ngắn	chạy lại PCR-bigdye 3R	20250624_mtDNA_82_2 mẫu	None	trả KQ			
+x	2514148	mt84	HV3 polyC	chạy bổ sung PCR-bigdye 3F	20250624_mtDNA_84_4 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514186	mt84	HV3 nhiễu (AC repeat)	chạy bổ sung PCR-bigdye 3F	20250624_mtDNA_84_4 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2514196	mt84	1F ngắn	chạy lại PCR-bigdye 1F	20250624_mtDNA_84_4 mẫu	None	trả KQ			
+x	2514211	mt84	HV3 polyC	chạy bổ sung PCR-bigdye 3F	20250624_mtDNA_84_4 mẫu	None	trả KQ			
+x	2514240	mt85	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_85_5 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2514252	mt85	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250624_mtDNA_85_5 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2514260	mt85	HV3 AC repeat	PCR-bigdye 3F	20250624_mtDNA_85_5 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2514270	mt85	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_85_5 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514463	mt85	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_85_5 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514527	mt86	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_86_3 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514539	mt86	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_86_3 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514587	mt86	HV3 AC repeat	PCR-bigdye 3F	20250624_mtDNA_86_3 mẫu	73-302 438-522 16024-16365_Nhiễu sau polyC ở HV2F và AC repeat ở HV3F	trả KQ			
+x	2514678	mt89	1F fail	rePCR-bigdye 1F	20250624_mtDNA_89_6 mẫu	HV2F nhiễu sau polyA, Full region	trả KQ			
+x	2514715	mt89	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_89_6 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514725	mt89	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_89_6 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514748	mt89	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_89_6 mẫu	HV2F - peak shoulder, nền cao	rePCR-BD 2F	20250710_mtDNA_89_2514748		trả KQ
+x	2514754	mt89	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_89_6 mẫu	73-340 438-573 16024-16365_HV3F nhiễu sau polyC_File text chưa ghi đoạn trình tự	trả KQ			
+x	2514758	mt89	4 trình tự nhiễu	rePCR -> rePCR-bigdye 4 mồi	20250624_mtDNA_89_6 mẫu	None	trả KQ			
+x	2514589	mt87	3R nhiễu, ko cover được 1 phần HV2	rePCR-bigdye 3R	20250624_mtDNA_87_8 mẫu	None	trả KQ			
+x	2514605	mt87	2F ngắn	rePCR-bigdye 2F	20250624_mtDNA_87_8 mẫu	None	trả KQ			
+x	2514606	mt87	3R nhiễu, ko cover được 1 phần HV2	rePCR-bigdye 3R	20250624_mtDNA_87_8 mẫu	None	trả KQ			
+x	2514620	mt87	2F ngắn	rePCR-bigdye 2F	20250624_mtDNA_87_8 mẫu	None	trả KQ			
+x	2514635	mt87	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_87_8 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514648	mt87	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_87_8 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514654	mt87	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_87_8 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514673	mt87	HV3 polyC, 2F ngắn	PCR-bigdye 3F, 2F	20250624_mtDNA_87_8 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2512605	mt83	4 trình tự nhiễu	rePCR -> rePCR-bigdye 4 mồi	20250624_mtDNA_83_5 mẫu	None	trả KQ			
+x	2512640	mt83	4 trình tự nhiễu	rePCR -> rePCR-bigdye 4 mồi	20250624_mtDNA_83_5 mẫu	None	trả KQ			
+x	2513914	mt83	3R ngắn	rePCR-bigdye 3R	20250624_mtDNA_83_5 mẫu	None	trả KQ			
+x	2513920	mt83	3R ngắn	rePCR-bigdye 3R	20250624_mtDNA_83_5 mẫu	None	trả KQ			
+x	2515229	mt83	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_83_5 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	trả KQ			
+x	2514776	mt90	1F nền cao	rePCR-bigdye 1F	20250624_mtDNA_90_3 mẫu	None	trả KQ			
+x	2514788	mt90	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_90_3 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2514789	mt90	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_90_3 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2513785	mt79	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_79_1 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	trả KQ			
+x	2515596	mt94	1R fail	rePCR-bigdye 1R	20250624_mtDNA_94_1 mẫu	None	trả KQ			
+x	2515332	mt92	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_92_2 mẫu	None	trả KQ			
+x	2515339	mt92	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_92_2 mẫu	None	trả KQ			
+x	2515360	mt92	tín hiệu HV1 phức tạp	tạm giữ lại để phân tích tiếp --> tách lại	20250707_mtDNA_92_2515360	none	Trả KQ			
+x	2515247	mt91	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_91_2 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2515308	mt91	HV3 nhiễu	PCR-bigdye 3F, 3R	20250624_mtDNA_91_2 mẫu	None	Trả KQ			
+x	2517140	mt98	2F peak shoulder	rePCR-bigdye 2F	20250624_mtDNA_98_4 mẫu	None	Trả KQ			
+x	2517141	mt98	HV3 AC repeat	PCR-bigdye 3F	20250624_mtDNA_98_4 mẫu	None	Trả KQ			
+x	2517152	mt98	1F dye blob	rePCR-bigdye 1F	20250624_mtDNA_98_4 mẫu	None	Trả KQ			
+x	2517162	mt98	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_98_4 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2516198	mt95	HV3 nhiễu	PCR-bigdye 3F, 3R	20250624_mtDNA_95_2 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2516363	mt97	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_97_3 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2516446	mt97	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250624_mtDNA_97_3 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2516473	mt97	3R dye blob	rePCR-bigdye 3R	20250624_mtDNA_97_3 mẫu	None	Trả KQ			
+x	2516245	mt96	2F ngắn	rePCR-bigdye 2F	20250624_mtDNA_96_3 mẫu	None	Trả KQ			
+x	2516262	mt96	HV3 AC repeat	PCR-bigdye 3F	20250624_mtDNA_96_3 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2516263	mt96	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_96_3 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2516231	mt102	HV3 AC repeat	PCR-bigdye 3F	20250624_mtDNA_102_3 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2524361	mt102	HV3 AC repeat	PCR-bigdye 3F	20250624_mtDNA_102_3 mẫu	None	Trả KQ			
+x	2524362	mt102	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_102_3 mẫu	None	Trả KQ			
+x	2517031	mt100	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_100_2 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2517034	mt100	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_100_2 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2516408	mt99	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_99_4 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2516412	mt99	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250624_mtDNA_99_4 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2516925	mt99	HV3 AC repeat	PCR-bigdye 3F, 3R	20250624_mtDNA_99_4 mẫu	73-302 438-522 16024-16365_Nhiễu sau polyC ở HV2F và AC repeat ở HV3F	Trả KQ			
+x	2516928	mt99	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250624_mtDNA_99_4 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2517068	mt101	2F nhiễu, 3R nhiễu, 1F ngắn	rePCR-bigdye 2F, 3R, 1F; PCR-bigdye 3F	20250624_mtDNA_101_4 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2517080	mt101	HV3 AC repeat	PCR-bigdye 3F	20250624_mtDNA_101_4 mẫu	73-302 438-522 16024-16365_Nhiễu sau polyC ở HV2F và AC repeat ở HV3F	Trả KQ			
+x	2517089	mt101	2F nhiễu	rePCR-bigdye 2F	20250624_mtDNA_101_4 mẫu	None	Trả KQ			
+x	2517132	mt101	HV3 polyC	PCR-bigdye 3F	20250624_mtDNA_101_4 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2517872	mt105	HV3 polyC	PCR-bigdye 3F	20250707_mtDNA_105_2 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2517874	mt105	HV3 polyC	PCR-bigdye 3F	20250707_mtDNA_105_2 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2518604	mt107	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250707_mtDNA_107_1 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2519266	mt110	HV3 ngắn	PCR-bigdye 3F, 3R	20250707_mtDNA_110_1 mẫu	73-302 316-340 438-576 16024-16365_HV2F và HV3R nhiễu sau polyC, 310C	Trả KQ			
+x	2519414	mt111	tín hiệu 1R không rõ ràng 16293A-C	rePCR --> PCR-BD 1R	20250707_mtDNA_111_1 mẫu	73-340 438-576 16024-16192 16290-16365_HV1R nhiễu sau polyC, 16293A-C, HV1F nhiễu sau polyC	Trả KQ			
+x	2518787	mt109	2F dyeblob	rePCR-bigdye 2F	20250707_mtDNA_109_5 mẫu	None	Trả KQ			
+x	2518819	mt109	16161.1C?	tạm giữ lại để phân tích tiếp --> tách lại	20250707_mtDNA_109_2518819	None	Trả KQ			
+x	2518821	mt109	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250707_mtDNA_109_5 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2518869	mt109	HV3 polyC	PCR-bigdye 3F	20250707_mtDNA_109_5 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2518807	mt109	HV3 polyC	PCR-bigdye 3F	20250707_mtDNA_109_5 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2519484	mt112	1R peak chồng chéo	rePCR hoặc re-purify sản phẩm PCR -> PCR-BD 1R	20250707_mtDNA_112_2 mẫu	none	trả KQ			
+x	2519487	mt112	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250707_mtDNA_112_2 mẫu	none	trả KQ			
+x	2519325	mt113	HV3 AC repeat	PCR-bigdye 3F	20250707_mtDNA_113_2 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2520485	mt113	HV3 polyC	PCR-bigdye 3F	20250707_mtDNA_113_2 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2520153	mt114	HV3 polyC	PCR-bigdye 3F	20250707_mtDNA_114_1 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2521596	mt116	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250707_mtDNA_116_1 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2521741	mt119	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250707_mtDNA_119_1 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2521488	mt118	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250707_mtDNA_118_1 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2521607	mt116		tạm giữ lại theo yêu cầu của lab	250716 (email thông báo xác minh)	đã xác minh	Trả KQ			
+x	2521650	mt117	tín hiệu HV3 phức tạp	tạm giữ lại để phân tích tiếp --> tách lại	20250707_mtDNA_117_2521650	73-340 438-563 16024-16365	Trả KQ			
+x	2519369	mt117	vtri 16099 chèn G chiều HV1R	rePCR -> rePCR-BD 1R	20250707_mtDNA_117_2 mẫu	None	Trả KQ			
+x	2521808	mt120	vtri 333 chèn G chiều HV3R	rePCR -> rePCR-BD 3R	20250707_mtDNA_120_2 mẫu	None	Trả KQ			
+x	2521851	mt120	HV3 AC repeat	PCR-bigdye 3F	20250707_mtDNA_120_2 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2520094	mt126	HV3 polyC	PCR-bigdye 3F	20250707_mtDNA_126_4 mẫu	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2520113	mt126	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250707_mtDNA_126_4 mẫu	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2520074	mt126	3R ngắn	PCR-bigdye 3F, 3R	20250707_mtDNA_126_4 mẫu	None	Trả KQ			
+x	2520062	mt126	1F ngắn	rePCR-BG 1F	20250707_mtDNA_126_4 mẫu	None	Trả KQ			
+x	2522300	mt121	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250707_mtDNA_121_1 mẫu	73-302 438-455 16024-16365	Trả KQ			
+x	2522534	mt123	HV3 nhiễu	PCR-bigdye 3F, 3R	20250725_mtDNA_123_1 sample	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2522601	mt124	fail 4 chiều	chạy lại từ PCR hoặc tách lại	20250725_mtDNA_124_8 samples	none	Trả KQ			
+x	2522610	mt124	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_124_8 samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2522650	mt124	2F nền cao	rePCR-BD 2F	20250725_mtDNA_124_8 samples	nền vẫn như cũ	Trả KQ			
+x	2522653	mt124	HV3 AC repeat	PCR-bigdye 3F	20250725_mtDNA_124_8 samples	none	Trả KQ			
+x	2522618	mt124	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_124_8 samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2522661	mt124	HV3 AC repeat	PCR-bigdye 3F	20250725_mtDNA_124_8 samples	none	Trả KQ			
+x	2522669	mt124	HV3 AC repeat	PCR-bigdye 3F	20250725_mtDNA_124_8 samples	none	Trả KQ			
+x	2522679	mt124	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_124_8 samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2523222	mt129	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_129_2 samples	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2523244	mt129	1F nền cao	rePCR-BD 1F	20250725_mtDNA_129_2 samples	none	Trả KQ			
+x	2522490	mt122	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_122_5 samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2522357	mt122	HV3 AC repeat	PCR-bigdye 3F	20250725_mtDNA_122_5 samples	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2522500	mt122	1F dye blob	rePCR-BD 1F	20250725_mtDNA_122_5 samples	none	Trả KQ			
+x	2522353	mt122	HV3 polyC (460 T>C)	PCR-bigdye 3F	20250725_mtDNA_122_5 samples	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2522493	mt122	HV3 AC repeat	PCR-bigdye 3F	20250725_mtDNA_122_5 samples	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2523349	mt130	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_130_2 samples	73-302 438-576 16024-16365_HV2F nhiễu sau polyC	Trả KQ			
+x	2523281	mt130	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_130_2 samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2523810	mt131	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_131_1 sample	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	Trả KQ			
+x	2523840	mt132	HV3 polyC, 2F dyeblob	PCR-bigdye 3F, 2F	20250725_mtDNA_132_5 samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2523856	mt132	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_132_5 samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2523900	mt132	2F dyeblob	PCR-bigdye 2F	20250725_mtDNA_132_5 samples	none	Trả KQ			
+x	2523901	mt132	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_132_5 samples	73-302 438-573 16024-16365_HV2F nhiễu sau polyC, HV3F nhiễu sau polyC	Trả KQ			
+x	2524068	mt132	HV3 AC repeat	PCR-bigdye 3F	20250725_mtDNA_132_5 samples	73-302 438-522 16024-1636: chưa thảo luận đc về extended UIPAC code với Tân nên chỉ report HVIII đến 522	Trả KQ			
+x	2523862	mt132	2F nền cao	rePCR-BD 2F	20250725_mtDNA_132_5 samples	none	Trả KQ			
+x	2522691	mt127	2F nền cao	rePCR-BD 2F	20250725_mtDNA_127_3 samples	2F nền cao	Trả KQ	20250725_mtDNA_127_3 mẫu_251208	none	Trả KQ
+x	2522697	mt127	2F nền cao	rePCR-BD 2F	20250725_mtDNA_127_3 samples	2F nền cao	Trả KQ	20250725_mtDNA_127_3 mẫu_251208	none	Trả KQ
+x	2522715	mt127	3R nền cao (AC repeat)	rePCR-BD 3F	20250725_mtDNA_127_3 samples	none	Trả KQ	20250725_mtDNA_127_3 mẫu_251208	none	Trả KQ
+x	2523115	mt128	3R nền cao	rePCR-BD 3F	20250725_mtDNA_128_3 samples	none	Trả KQ			
+x	2523143	mt128	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_128_3 samples	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	Trả KQ			
+x	2523154	mt128	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_128_3 samples	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	Trả KQ			
+x	2523975	mt133	3R nền cao (AC repeat)	PCR-BD 3F	20250725_mtDNA_133_2 samples	none	Trả KQ			
+x	2523987	mt133	2F dyeblob	PCR-bigdye 2F	20250725_mtDNA_133_2 samples	none	Trả KQ			
+x	2524610	mt134	1F dyeblob	rePCR-BD 1F	20250725_mtDNA_134_5 samples	none	Trả KQ			
+x	2524727	mt134	1F nền cao	rePCR-BD 1F	20250725_mtDNA_134_5 samples	none	Trả KQ			
+x	2524730	mt134	1F nền cao	rePCR-BD 1F	20250725_mtDNA_134_5 samples	none	Trả KQ			
+x	2524734	mt134	1F nền cao	rePCR-BD 1F	20250725_mtDNA_134_5 samples	none	Trả KQ			
+x	2524756	mt134	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_134_5 samples	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	Trả KQ			
+x	2524421	mt136	2F peak shoulder	rePCR-bigdye 2F	20250725_mtDNA_136_1 sample	none	Trả KQ			
+x	2524504	mt137	3R nền cao (AC repeat)	PCR-BD 3F	20250725_mtDNA_137_3 samples	none	Trả KQ			
+x	2524515	mt137	3R nền cao (AC repeat)	PCR-BD 3F	20250725_mtDNA_137_3 samples	none	Trả KQ			
+x	2524582	mt137	2F nền cao	rePCR-BD 2F	20250725_mtDNA_137_3 samples	HV2F nền cao, vì TN họ hàng 2524574 có đủ hồ sơ nên trả KQ mẫu này luôn (partial mtdna profile)	Trả KQ			
+x	2524790	mt138	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_138_4 mẫu	73-302 438-573 16024-16365	Trả KQ			
+x	2524799	mt138	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_138_4 mẫu	73-302 438-573 16024-16365	Trả KQ			
+x	2524809	mt138	HV3 polyC	PCR-bigdye 3F	20250725_mtDNA_138_4 mẫu	73-302 438-573 16024-16365	Trả KQ			
+x	2524814	mt138	2F nhiễu	PCR-bigdye 2F	20250725_mtDNA_138_4 mẫu	none	Trả KQ			
+x	2525269	mt140	3R nhiễu (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_140_1 sample	none	Trả KQ			
+2525413	2525413	mt142	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250725_mtDNA_142_3 samples	73-340 438-576 16024-16214 16244-16365	Trả KQ			
+2525491	2525491	mt142	1R fail	rePCR-bigdye 1R	20250725_mtDNA_142_3 samples	none	Trả KQ			
+2525485	2525485	mt142	3R nền cao	PCR-bigdye 3F, R389	20250725_mtDNA_142_3 samples	none	Trả KQ			
+2525547	2525547	mt143	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250725_mtDNA_143_2 samples	73-340 438-576 16024-16193 16244-16365	Trả KQ			
+2525560	2525560	mt143	3R nhiễu (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_143_2 samples	none	Trả KQ			
+x	2526700	mt146	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_146_3 samples	none	Trả KQ			
+x	2526686	mt146	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_146_3 samples	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	Trả KQ			
+x	2526704	mt146	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_146_3 samples	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	Trả KQ			
+x	2525900	mt144	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_144_4 samples	none	Trả KQ			
+x	2525876	mt144	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_144_4 samples	none	Trả KQ			
+x	2525907	mt144	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_144_4 samples	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	Trả KQ			
+x	2525845	mt144	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_144_4 samples	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	Trả KQ			
+x	2525993	mt145	1F fail	rePCR-bigdye 1F	20250725_mtDNA_145_1 sample	none	Trả KQ			
+2531317	2531317	mt163	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250725_mtDNA_163_3 samples	73-340 438-576 16024-16193 16244-16365	Trả KQ			
+2531318	2531318	mt163	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250725_mtDNA_163_3 samples	73-340 438-573 16024-16216 16236-16365	Trả KQ			
+2531319	2531319	mt163	1R fail	rePCR-bigdye 1R	20250725_mtDNA_163_3 samples	73-340 438-573 16024-16193 16290-16365	Trả KQ	1R polyC (16293A-C)		PCR-BD F16190, R16258
+x	2526776	mt147	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_147_4 samples	none	Trả KQ			
+x	2526723	mt147	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_147_4 samples	none	Trả KQ			
+2526753	2526753	mt147	tín hiệu HV3 phức tạp	tạm giữ lại để phân tích tiếp	20250725_mtDNA_147_4 samples	none				
+2526742	2526742	mt147	tín hiệu HV3 phức tạp	tạm giữ lại để phân tích tiếp	20250725_mtDNA_147_4 samples	none				
+x	2526874	mt148	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_148_2 Sample	none	Trả KQ			
+x	2526810	mt148	HV1R: 16194M? 16195Y?	tách lại --> PCR-bigdye HV1R	20250725_mtDNA_148_2 Sample	kết quả NGS cũng xác định 16194M 16195Y	Trả KQ			
+x	2527316	mt149	2F nhiễu (nghi ngờ có đột biến lạ)	PCR-bigdye 2F và 1 mồi thay thế (ví dụ F15 hoặc F29 hoặc F34)	20250725_mtDNA_149_3 mẫu	IGV: 71del	Trả KQ			
+x	2527367	mt149	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_149_3 mẫu	73-340 438-573 16024-16365.	Trả KQ			
+x	2527373	mt149	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_149_3 mẫu	73-340 438-573 16024-16365.	Trả KQ			
+x	2527733	mt150	3R nền cao	PCR-bigdye 3F, R389	20250725_mtDNA_150_2 samples	none	Trả KQ			
+x	2527707	mt150	3R nền cao	PCR-bigdye 3F, R389	20250725_mtDNA_150_2 samples	none	Trả KQ			
+x	2531432	mt164	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_164_3 samples	none	Trả KQ			
+x	2531418	mt164	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_164_3 samples	none	Trả KQ			
+x	2531400	mt164	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_164_3 samples	none	Trả KQ			
+x	2530866	mt165	3R nhiễu (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_165_4 samples	none	Trả KQ			
+x	2531584	mt165	3R nhiễu (AC repeat)	PCR-bigdye 3F, R389	20250725_mtDNA_165_4 samples	none	Trả KQ			
+x	2529865	mt165	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_165_4 samples	none	Trả KQ			
+x	2530835	mt165	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_165_4 samples	đã so với 2530554 (mt170) và điều chỉnh KQ	Trả KQ			
+x	2527139	mt151	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_151_4 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2527141	mt151	1F ngắn + dyeblob, 1R polyC (16293A-C)	PCR-bigdye 1F, F16190	20250725_mtDNA_151_4 samples	none	Trả KQ			
+x	2527171	mt151	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_151_4 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2526805	mt151	HV1R: 16194M? 16195Y?	tách lại --> PCR-bigdye HV1R	20250725_mtDNA_151_4 samples	none	Trả KQ			
+x	2534040	mt172	3R poly C	PCR-bigdye 3F, R389	20250725_mtDNA_172_4 samples	73-340 438-573 16024-16365_HV3F nhiễu sau polyC	Trả KQ			
+x	2534106	mt172	3R nền cao trước AC repeat,	PCR-bigdye 3F	20250725_mtDNA_172_4 samples	none	Trả KQ			
+x	2534109	mt172	3R nền cao trước AC repeat	PCR-bigdye 3F	20250725_mtDNA_172_4 samples	none	Trả KQ			
+x	2534102	mt172	1F nền cao	PCR-bigdye 1F	20250725_mtDNA_172_4 samples	none	Trả KQ			
+2527228	2527228	mt152	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_152_2 mẫu	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+2527232	2527232	mt152	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_152_2 mẫu	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+2527859	2527859	mt154	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_154_1 samples	none				
+2527773	2527773	mt153	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_153_3 samples	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+2527804	2527804	mt153	3R nền cao	PCR-bigdye 3F, R389	20250814_mtDNA_153_3 samples	none				
+2527786	2527786	mt153	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_153_3 samples	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+2528373	2528373	mt155	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250814_mtDNA_155_2 samples	73-340 438-576 16024-16217 16236-16365				
+2528355	2528355	mt155	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_155_2 samples	73-340 438-573 16024-16365				
+2528377	2528377	mt156	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250814_mtDNA_156_5 samples	73-340 438-576 16024-16217 16238-16365				
+2528396	2528396	mt156	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250814_mtDNA_156_5 samples	73-340 438-576 16024-16217 16236-16365				
+2528414	2528414	mt156	3R poly C, 2F dyeblob	PCR-bigdye 3F, R389, rePCR-BD 2F	20250814_mtDNA_156_5 samples	73-340 438-573 16024-16365				
+2528393	2528393	mt156	3R poly C (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_156_5 samples	none				
+2528410	2528410	mt156	1F dyeblob	PCR-bigdye 1F, F16190	20250814_mtDNA_156_5 samples	none				
+x	2528533	mt157	2F nhiễu (nghi ngờ có đột biến lạ)	PCR-bigdye 2F và 1 mồi thay thế (ví dụ F15 hoặc F29 hoặc F34)	20250814_mtDNA_157_3 mẫu	IGV: 71del	Trả KQ			
+x	2528552	mt157	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250814_mtDNA_157_3 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2528574	mt157	3R nền cao	PCR-bigdye 3F, R389	20250814_mtDNA_157_3 mẫu	none	Trả KQ			
+2529115	2529115	mt158	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_158_2 samples	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+2528612	2528612	mt158	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_158_2 samples	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+2529180	2529180	mt159	2F fail	rePCR-bigdye 2F	20250814_mtDNA_159_1 sample	none				
+2529232	2529232	mt160	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_160_4 samples	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+2529234	2529234	mt160	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_160_4 samples	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+2529446	2529446	mt160	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_160_4 samples	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+2529458	2529458	mt160	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_160_4 samples	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+x	2531054	mt174	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_174_5 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2531067	mt174	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_174_5 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2531074	mt174	2F failed	PCR-BD 2F	20250814_mtDNA_174_5 mẫu	none	Trả KQ			
+x	2531025	mt174	2F ngắn	PCR-BD 2F	20250814_mtDNA_174_5 mẫu	none	Trả KQ			
+x	2531076	mt174	3R nhiễu	PCR-BD 3R	20250814_mtDNA_174_5 mẫu	none	Trả KQ			
+x	2529476	mt161	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_161_2 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2529475	mt161	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_161_2 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2530302	mt166	3R nền cao, 1F nền cao	PCR-bigdye 3F, PCR-bigdye 1F	20250814_mtDNA_166_4 mẫu	none	Trả KQ			
+x	2529372	mt166	1F dyeblob	PCR-bigdye 1F	20250814_mtDNA_166_4 mẫu	none	Trả KQ			
+x	2529330	mt166	3R nền cao	PCR-bigdye 3F, R389	20250814_mtDNA_166_4 mẫu	none	Trả KQ			
+x	2529374	mt166	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_166_4 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2530275	mt162	2F nền cao	rePCR-bigdye 2F	20250814_mtDNA_162_1 sample	none	Trả KQ			
+x	2529406	mt167	3R poly C (460T-C)	PCR-bigdye 3F, R389	20250814_mtDNA_167_1 sample	khớp hồ sơ 2529313 (mt162)	Trả KQ			
+2530979	2530979	mt168	1F nền cao	rePCR-bigdye 1F	20250814_mtDNA_168_1 sample	none				
+x	2532349	mt177	3R poly C (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_177_4 sample	none	Trả KQ			
+x	2532305	mt177	3R ngắn	PCR-bigdye 3F, R389	20250814_mtDNA_177_4 sample	none	Trả KQ			
+x	2532310	mt177	3R nền cao	PCR-bigdye 3F, R389	20250814_mtDNA_177_4 sample	none	Trả KQ			
+x	2532335	mt177	3R ngắn	PCR-bigdye 3F, R389	20250814_mtDNA_177_4 sample	none	Trả KQ			
+x	2530384	mt169	3R poly C (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_169_2_sample	73-340 438-573 16024-16365 HV3F nhiễu sau polyC	Trả KQ			
+x	2530452	mt169	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_169_2_sample	none	Trả KQ			
+2535116	2535116	mt190	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_190_1 sample	73-340 438-573 16024-16365 HV3F nhiễu sau polyC				
+x	2530497	mt170	3R poly C (AC repeat), 1F nền cao	PCR-bigdye 3F, R389, 1F	20250814_mtDNA_170_11 samples	none	Trả KQ			
+x	2530554	mt170	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_170_11 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2530563	mt170	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_170_11 samples	none	Trả KQ			
+x	2531357	mt170	3R poly C (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_170_11 samples	none	Trả KQ			
+x	2530483	mt170	3R, 1F nền cao	PCR-bigdye 3F, 1F	20250814_mtDNA_170_11 samples	none	Trả KQ			
+x	2530485	mt170	3R, 1F nền cao	PCR-bigdye 3F, 1F	20250814_mtDNA_170_11 samples	none	Trả KQ			
+x	2530488	mt170	1F nền cao	PCR-bigdye 1F	20250814_mtDNA_170_11 samples	none	Trả KQ			
+x	2530495	mt170	1F nền cao	PCR-bigdye 1F	20250814_mtDNA_170_11 samples	none	Trả KQ			
+x	2530496	mt170	3R, 1F nền cao	PCR-bigdye 3F, 1F	20250814_mtDNA_170_11 samples	none	Trả KQ			
+x	2530504	mt170	3R, 1F nền cao	PCR-bigdye 3F, 1F	20250814_mtDNA_170_11 samples	none	Trả KQ			
+x	2530561	mt170	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_170_11 samples	none	Trả KQ			
+2531255	2531255	mt175	3R polyC	PCR-bigdye 3F, R389	20250814_mtDNA_175_1 sample	none				
+x	2532491	mt179	1F nền cao	PCR-bigdye 1F	20250814_mtDNA_179_5 mẫu	none	Trả KQ			
+x	2532492	mt179	3R polyC, 1F nền cao	PCR-bigdye 3F, R389; PCR-bigdye 1F	20250814_mtDNA_179_5 mẫu	none	Trả KQ			
+x	2532507	mt179	1F nền cao	PCR-bigdye 1F	20250814_mtDNA_179_5 mẫu	none	Trả KQ			
+x	2532480	mt179	3R polyC	PCR-bigdye 3F, R389	20250814_mtDNA_179_5 mẫu	none	Trả KQ			
+x	2532513	mt179	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_179_5 mẫu	none	Trả KQ			
+x	2531533	mt171	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_171_7 sample	none	Trả KQ			
+x	2531554	mt171	3R poly C (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_171_7 sample	none	Trả KQ			
+x	2531571	mt171	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_171_7 sample	73-340 438-573 16024-16365	Trả KQ			
+x	2531573	mt171	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_171_7 sample	73-340 438-573 16024-16365	Trả KQ			
+x	2531574	mt171	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_171_7 sample	73-340 438-573 16024-16365	Trả KQ			
+x	2531577	mt171	3R poly C (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_171_7 sample	none	Trả KQ			
+x	2531579	mt171	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_171_7 sample	73-340 438-573 16024-16365	Trả KQ			
+x	2532257	mt176	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_176_1 sample	none	Trả KQ			
+x	2532513	mt179	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250814_mtDNA_179_5 mẫu	none	Trả KQ			
+x	2530938	mt173	3R poly C	PCR-bigdye 3F, R389	20250814_mtDNA_173_2 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2530896	mt173	HV1R: 16194M? 16195Y?	tách lại --> PCR-bigdye HV1R	20250814_mtDNA_173_2 mẫu	none	Trả KQ			
+x	2532588	mt180	3R poly C	PCR-bigdye 3F, R389	20250917_mtDNA_180_3 samples	none	Trả KQ			
+x	2532589	mt180	3R nền cao	PCR-bigdye 3F, R389	20250917_mtDNA_180_3 samples	none	Trả KQ			
+x	2532612	mt180	3R polyAC (AC repeat)	PCR-bigdye 3F, R389	20250917_mtDNA_180_3 samples	none	Trả KQ			
+x	2532412	mt178	3R nền cao (AC repeat)	PCR-bigdye 3F, R389	20250917_mtDNA_178_1 sample	none	Trả KQ			
+x	2532661	mt181	3R polyC	PCR-bigdye 3F, R389	20250917_mtDNA_181_1 sample	73-340 438-573 16024-16365	Trả KQ			
+x	2533408	mt182	3R polyAC (AC repeat)	PCR-bigdye 3F, R389	20250917_mtDNA_182_1 sample	none	Trả KQ			
+x	2533472	mt183	3R ngắn	PCR-bigdye 3F, R389	20250917_mtDNA_183_2 samples	none	Trả KQ			
+x	2533476	mt183	3R polyAC (AC repeat)	PCR-bigdye 3F, R389	20250917_mtDNA_183_2 samples	none	Trả KQ			
+x	2533670	mt185	3R polyC	PCR-bigdye 3F, R389	20250917_mtDNA_185_2 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2533665	mt185	3R polyC	PCR-bigdye 3F, R389	20250917_mtDNA_185_2 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2533551	mt184	3R nền cao	PCR-bigdye 3F, R389	20250917_mtDNA_184_2 samples	none	Trả KQ			
+x	2533596	mt184	3R polyC	PCR-bigdye 3F, R389	20250917_mtDNA_184_2 samples	73-340 438-573 16024-16365	Trả KQ			
+2536711	2536711	mt206	1F dyeblob	PCR-BD 1F	20250917_mtDNA_206_4 samples	none				
+2536789	2536789	mt206	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250917_mtDNA_206_4 samples	73-340 438-576 16024-16219 16232-16365				
+2536754	2536754	mt206	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_206_4 samples	73-340 438-573 16024-16365				
+2536795	2536795	mt206	nhiều vị trí mixed	tách lại --> PCR-BD 1F/R	20250917_mtDNA_206_4 samples	16189T_HV1R, 16189C_HV1F ???				
+2534144	2534144	mt188	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_188_1 sample	73-340 438-573 16024-16365				
+2534211	2534211	mt189	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_189_5 samples	73-340 438-573 16024-16365				
+2534276	2534276	mt189	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_189_5 samples	73-340 438-573 16024-16365				
+2534278	2534278	mt189	nhiều vị trí mixed	tách lại --> PCR-BD 1F/R	20250917_mtDNA_189_5 samples	none				
+2534274	2534274	mt189	nhiều vị trí mixed	tách lại --> PCR-BD 1F/R	20250917_mtDNA_189_5 samples	none				
+2534194	2534194	mt189	3R peak shoulder	PCR-BD 3F, R389	20250917_mtDNA_189_5 samples	none				
+x	2533748	mt186	3R ngắn	PCR-BD 3F, R389	20250917_mtDNA_186_3 samples	none	Trả KQ			
+x	2533756	mt186	3R ngắn	PCR-BD 3F, R389	20250917_mtDNA_186_3 samples	none	Trả KQ			
+x	2533773	mt186	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_186_3 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2534427	mt191	3R dyeblob	PCR-BD 3R, R389	20250917_mtDNA_191_3 samples	None	Trả KQ			
+x	2534295	mt191	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_191_3 samples	none	Trả KQ			
+x	2534361	mt191	3R polyC + ngắn	PCR-BD 3F, R389	20250917_mtDNA_191_3 samples	none	Trả KQ			
+2533926	2533926	mt187	1F nền cao	PCR-BD 1F	20250917_mtDNA_187_2 sample	none				
+2533930	2533930	mt187	2F nhiễu + dyeblob	PCR-BD 2F	20250917_mtDNA_187_2 sample	none				
+2537736	2537736	mt207	2F fail	PCR-BD 2F	20250917_mtDNA_207_4 samples	none				
+2537688	2537688	mt207	3R nền cao	PCR-BD 3F, R389	20250917_mtDNA_207_4 samples	none				
+2537685	2537685	mt207	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_207_4 samples	73-340 438-573 16024-16365				
+2537683	2537683	mt207	nhiều vị trí mixed	tách lại	20250917_mtDNA_207_4 samples	none		189R 204Y 16183M 16269R	Nhiễm mẫu	
+x	2539684	mt209	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_209_2 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2539707	mt209	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_209_2 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2538815	mt208	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_208_1 sample	none	Trả KQ			
+x	2537072	mt210	3R ngắn	PCR-BD 3F, R389	20250917_mtDNA_210_2 samples	none	Trả KQ			
+x	2537084	mt210	3R polyC	PCR-BD 3F	20250917_mtDNA_210_2 samples	none	Trả KQ			
+x	2534469	mt192	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_192_3 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2534472	mt192	2F nhiễu (nghi ngờ có đột biến lạ), 3R polyC	PCR-BD 3F, R389; PCR-bigdye 2F và 1 mồi thay thế (ví dụ F15 hoặc F29 hoặc F34)	20251205_mtDNA_192_3 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2534542	mt192	3R nền cao, 1F nền cao	PCR-BD 3F, 1F	20251205_mtDNA_192_3 mẫu	none	Trả KQ			
+2537031	2537031	mt211	3R ngắn	PCR-BD 3F, R389	20250917_mtDNA_211_3 samples	none				
+2536991	2536991	mt211	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_211_3 samples	none				
+2537029	2537029	mt211	HV3 polyC (460 T>C)	PCR-BD 3F	20250917_mtDNA_211_3 samples	none				
+2536912	2536912	mt212	1F ngắn	PCR-BD 1F	20250917_mtDNA_212_3 samples	none				
+2536922	2536922	mt212	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_212_3 samples	73-340 438-573 16024-16365				
+2536926	2536926	mt212	3R polyC (460T-C)	PCR-BD 3F, R389	20250917_mtDNA_212_3 samples	none				
+2537176	2537176	mt213	3R polyC (460T-C) + ngắn	PCR-BD 3F, R389	20250917_mtDNA_213_3 samples	Sai danh pháp 248del				
+2537175	2537175	mt213	3R poly C (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_213_3 samples	none				
+2537207	2537207	mt213	3R fail	PCR-BD 3F, R389	20250917_mtDNA_213_3 samples	none				
+x	2540723	mt214	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_214_5 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2540727	mt214	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_214_5 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2540719	mt214	3R poly C (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_214_5 samples	none	Trả KQ			
+x	2540730	mt214	3R nền cao	PCR-BD 3F, R389	20250917_mtDNA_214_5 samples	none	Trả KQ			
+x	2540739	mt214	3R nền cao	PCR-BD 3F, R389	20250917_mtDNA_214_5 samples	none	Trả KQ			
+x	2534822	mt195	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_195_2 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2534825	mt195	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_195_2 mẫu	73-340 438-573 16024-16365	Trả KQ			
+2534669	2534669	mt194	1F ngắn	PCR-BD 1F	20250917_mtDNA_194_1 sample	none				
+x	2534881	mt196	3R nền cao	PCR-BD 3F, R389	20250917_mtDNA_196_5 samples	none	Trả KQ			
+x	2534899	mt196	2F dyeblob	PCR-BD 2F	20250917_mtDNA_196_5 samples	none	Trả KQ			
+x	2534916	mt196	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_196_5 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2534858	mt196	2F tín hiệu yếu	PCR-BD 2F	20250917_mtDNA_196_5 samples	none	Trả KQ			
+x	2534862	mt196	3R nền cao	PCR-BD 3F, R389	20250917_mtDNA_196_5 samples	none	Trả KQ			
+2535032	2535032	mt198	3R poly C (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_198_4 samples	none				
+2535113	2535113	mt198	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250917_mtDNA_198_4 samples	none				
+2535109	2535109	mt198	252Y?, 3R polyC	PCR-BD 3F, R389, 2F	20250917_mtDNA_198_4 samples	73-340 438-573 16024-16365				
+2535053	2535053	mt198	1F nhiễu	PCR-BD 1F	20250917_mtDNA_198_4 samples	73-340 438-576 16024-16217 16243-16365				
+2534947	2534947	mt197	3R nền cao, 1F nhiễu + ngắn	PCR-BD 3F, R389; PCR-BD 1F	20250917_mtDNA_197_8 samples	none				
+2534994	2534994	mt197	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_197_8 samples	73-340 438-573 16024-16365				
+2535018	2535018	mt197	3R + 1F nền cao	PCR-BD 3F, R389; PCR-BD 1F	20250917_mtDNA_197_8 samples	none				
+2534943	2534943	mt197	1F nền cao	PCR-BD 1F	20250917_mtDNA_197_8 samples	none				
+2534946	2534946	mt197	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_197_8 samples	73-340 438-573 16024-16365				
+2534960	2534960	mt197	3R fail	PCR-BD 3F, R389	20250917_mtDNA_197_8 samples	none				
+2534996	2534996	mt197	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_197_8 samples	none				
+2535020	2535020	mt197	3R + 1F nền cao	PCR-BD 3F, R389; PCR-BD 1F	20250917_mtDNA_197_8 samples	none				
+x	2543528	mt227	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_227_2 samples	none	Trả KQ			
+x	2543544	mt227	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_227_2 samples	none	Trả KQ			
+x	2535290	mt199	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_199_2 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2535257	mt199	3R nền cao	PCR-BD 3R	20250917_mtDNA_199_2 samples	none	Trả KQ			
+x	2535362	mt200	3R poly C	PCR-BD 3F, R389	20250917_mtDNA_200_2 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2535420	mt200	3R poly C	PCR-BD 3F, R389	20250917_mtDNA_200_2 samples	73-340 438-573 16024-16365	Trả KQ			
+2542942	2542942	mt215	1F dyeblob + nền cao	PCR-BD 1F	20250917_mtDNA_215_5 samples	none				
+2542955	2542955	mt215	2F ngắn	PCR-BD 2F	20250917_mtDNA_215_5 samples	none				
+2542972	2542972	mt215	2F ngắn	PCR-BD 2F	20250917_mtDNA_215_5 samples	none				
+2542985	2542985	mt215	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_215_5 samples	none				
+2543019	2543019	mt215	3R nền cao (AC repeat)	PCR-BD 3F	20250917_mtDNA_215_5 samples	none				
+2535532	2535532	mt202	3R polyC	PCR-BD 3F	20250917_mtDNA_202_9 samples	73-340 438-573 16024-16365				
+2535535	2535535	mt202	3R polyC	PCR-BD 3F	20250917_mtDNA_202_9 samples	73-340 438-573 16024-16365				
+2535539	2535539	mt202	3R polyC	PCR-BD 3F	20250917_mtDNA_202_9 samples	73-340 438-573 16024-16365				
+2535545	2535545	mt202	2F dyeblob	PCR-BD 2F	20250917_mtDNA_202_9 samples	none				
+2535552	2535552	mt202	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_202_9 samples	73-340 438-573 16024-16365				
+2535558	2535558	mt202	3R poly C	PCR-BD 3F, R389	20250917_mtDNA_202_9 samples	73-340 438-573 16024-16365				
+2535563	2535563	mt202	3R polyC	PCR-BD 3F	20250917_mtDNA_202_9 samples	73-340 438-573 16024-16365				
+2535583	2535583	mt202	2F ngắn	PCR-BD 2F	20250917_mtDNA_202_9 samples	none				
+2535603	2535603	mt202	3R polyC	PCR-BD 3F	20250917_mtDNA_202_9 samples	73-340 438-573 16024-16365				
+2535483	2535483	mt201	1F ngắn + dyeblob	PCR-BD 1F	20250917_mtDNA_201_4 samples	none				
+2535484	2535484	mt201	1F ngắn	PCR-BD 1F	20250917_mtDNA_201_4 samples	none				
+2535485	2535485	mt201	1F ngắn	PCR-BD 1F	20250917_mtDNA_201_4 samples	none				
+2535486	2535486	mt201	2F dyeblob	PCR-BD 2F	20250917_mtDNA_201_4 samples	none				
+2535654	2535654	mt203	2F tín hiệu yếu, 3R polyC	PCR-BD 3F, R389	20250917_mtDNA_203_5 samples	73-340 438-573 16024-16365				
+2535658	2535658	mt203	3R poly C, 1F nền cao	PCR-BD 3F, R389; PCR-BD 1F	20250917_mtDNA_203_5 samples	73-340 438-573 16024-16365				
+2535660	2535660	mt203	3R poly C	PCR-BD 3F, R389	20250917_mtDNA_203_5 samples	73-340 438-573 16024-16365				
+2535685	2535685	mt203	3R dyeblob	PCR-BD 3R	20250917_mtDNA_203_5 samples	none				
+2535663	2535663	mt203	3R poly C	PCR-BD 3F, R389	20250917_mtDNA_203_5 samples	73-340 438-573 16024-16365				
+2535716	2535716	mt204	3R ngắn	PCR-BD 3F, R389	20250917_mtDNA_204_5 samples	none				
+2535724	2535724	mt204	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_204_5 samples	73-340 438-573 16024-16365				
+2535762	2535762	mt204	3R nền cao	PCR-BD 3F, R389	20250917_mtDNA_204_5 samples	73-340 438-573 16024-16365				
+2535768	2535768	mt204	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250917_mtDNA_204_5 samples	73-340 438-576 16024-16218 16235-16365				
+2535777	2535777	mt204	1R polyC (16293A-C)	PCR-BD F16190, R16258	20250917_mtDNA_204_5 samples	73-340 438-576 16024-16219 16236-16365				
+2536086	2536086	mt218	3R polyC (460T-C)	PCR-BD 3F, R389	20250917_mtDNA_218_8 samples	456Y, 463.1c ???				
+2536110	2536110	mt218	1F fail	PCR-BD 1F	20250917_mtDNA_218_8 samples	none				
+2536113	2536113	mt218	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_218_8 samples	73-340 438-573 16024-16365				
+2536129	2536129	mt218	1F peak thấp (16024-16032)	PCR-BD 1F	20250917_mtDNA_218_8 samples	none				
+2536135	2536135	mt218	1F peak thấp (16024-16042)	PCR-BD 1F	20250917_mtDNA_218_8 samples	none				
+2536136	2536136	mt218	1F peak thấp (16024-16042)	PCR-BD 1F	20250917_mtDNA_218_8 samples	none				
+2536144	2536144	mt218	1F peak thấp (16024-16042)	PCR-BD 1F	20250917_mtDNA_218_8 samples	none				
+2536103	2536103	mt218	3R nền cao	PCR-BD 3F, R389	20250917_mtDNA_218_8 samples	none				
+2536223	2536223	mt219	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_219_3 samples	73-340 438-573 16024-16365				
+2536188	2536188	mt219	3R polyAC (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_219_3 samples	none				
+2536242	2536242	mt219	3R polyC (460T-C)	PCR-BD 3F, R389	20250917_mtDNA_219_3 samples	none				
+x	2535872	mt216	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_216_6 samples	none	Trả KQ			
+x	2535873	mt216	3R polyAC (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_216_6 samples	none	Trả KQ			
+x	2535788	mt216	2F dyeblob	PCR-BD 2F	20250917_mtDNA_216_6 samples	none	Trả KQ			
+x	2535806	mt216	3R nền cao	PCR-BD 3F, R389	20250917_mtDNA_216_6 samples	none	Trả KQ			
+x	2535844	mt216	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_216_6 samples	none	Trả KQ			
+x	2535854	mt216	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_216_6 samples	none	Trả KQ			
+2536306	2536306	mt220	3R polyC (460T-C)	PCR-BD 3F, R389	20250917_mtDNA_220_7 samples	none				
+2536308	2536308	mt220	3R polyC (460T-C)	PCR-BD 3F, R389	20250917_mtDNA_220_7 samples	455.1Y 455.1c 455.3c ???				
+2536309	2536309	mt220	3R polyC (460T-C)	PCR-BD 3F, R389	20250917_mtDNA_220_7 samples	455.1Y 455.1c 455.3c ???				
+2536245	2536245	mt220	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_220_7 samples	73-340 438-573 16024-16365				
+2536327	2536327	mt220	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_220_7 samples	73-340 438-573 16024-16365				
+2536294	2536294	mt220	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_220_7 samples	none				
+2536315	2536315	mt220	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_220_7 samples	none				
+x	2536000	mt217	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_217_1 sample	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2535930	mt205	3R fail	PCR-BD 3F, R389	20250917_mtDNA_205_1 sample	none	Trả KQ			
+2536346	2536346	mt221	2F fail, 3R polyC	PCR-BD 2F, 3F, R389	20250917_mtDNA_221_7 samples	73-340 438-573 16024-16365				
+2536357	2536357	mt221	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_221_7 samples	none				
+2536371	2536371	mt221	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_221_7 samples	none				
+2536381	2536381	mt221	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_221_7 samples	none				
+2536383	2536383	mt221	1F ngắn	PCR-BD 1F	20250917_mtDNA_221_7 samples	none				
+2536412	2536412	mt221	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_221_7 samples	73-340 438-573 16024-16365				
+2536380	2536380	mt221	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_221_7 samples	none				
+x	2536542	mt223	3R polyC	PCR-BD 3F	20250917_mtDNA_223_10 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2536556	mt223	3R polyC	PCR-BD 3F	20250917_mtDNA_223_10 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2536571	mt223	3R polyC	PCR-BD 3F	20250917_mtDNA_223_10 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2536572	mt223	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_223_10 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2536577	mt223	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_223_10 samples	none	Trả KQ			
+x	2536579	mt223	3R ngắn	R389	20250917_mtDNA_223_10 samples	none	Trả KQ			
+x	2536588	mt223	3R nền cao (AC repeat)	PCR-BD 3F, R389	20250917_mtDNA_223_10 samples	none	Trả KQ			
+x	2536595	mt223	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_223_10 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2536596	mt223	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_223_10 samples	none	Trả KQ			
+x	2536613	mt223	3R polyC	PCR-BD 3F, R389	20250917_mtDNA_223_10 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2536522	mt222	3R ngắn	PCR-BD 3F	20250917_mtDNA_222_1 sample	none	Trả KQ			
+x	2534558	mt193	3R ngắn	PCR-BD 3F, R389	20250917_mtDNA_193_4 samples	none	Trả KQ			
+x	2534572	mt193	1R nền cao (16293A-C)	PCR-BD F16190	20250917_mtDNA_193_4 samples	none	Trả KQ			
+x	2534614	mt193	3R peak shoulder	PCR-BD 3F, R389	20250917_mtDNA_193_4 samples	none	Trả KQ			
+x	2534579	mt193	1R nền cao (16293A-C)	PCR-BD F16190	20250917_mtDNA_193_4 samples	none	Trả KQ			
+2543628	2543628	mt228	3R polyC	PCR-BD 3F	20251025_mtDNA_228_2 samples	73-340 438-573 16024-16365				
+2543668	2543668	mt228	1F nền cao	PCR-BD 1F	20251025_mtDNA_228_2 samples	none				
+x	2536636	mt224	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_224_1 sample	73-340 438-573 16024-16365	Trả KQ			
+x	2537326	mt226	3R fail	PCR-BD 3F, R389	20251025_mtDNA_226_1 sample	none	Trả KQ			
+x	2537444	mt230	2F nền cao, 1F nhiễu, 1R nền cao + dyeblob	PCR-BD 2F, 1F, 1R	20251025_mtDNA_230_6 samples	none	Trả KQ			
+x	2537451	mt230	3R polyAC (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_230_6 samples	73-340 438-522 16024-16365	Trả KQ			
+x	2537453	mt230	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_230_6 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2537497	mt230	3R polyAC (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_230_6 samples	none	Trả KQ			
+x	2537513	mt230	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_230_6 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2537529	mt230	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_230_6 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2537620	mt231	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_231_2 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2537577	mt231	3R polyAC (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_231_2 samples	none	Trả KQ			
+x	2536805	mt225	1F dyeblob, 1R tín hiệu yếu + dyeblob	PCR-BD 1F, 1R	20251025_mtDNA_225_8 samples	none	Trả KQ			
+x	2536817	mt225	1F dyeblob, 1R tín hiệu yếu	PCR-BD 1F, 1R	20251025_mtDNA_225_8 samples	none	Trả KQ			
+x	2536818	mt225	3R dyeblob, 1R tín hiệu yếu	PCR-BD 3F, 1R, R389	20251025_mtDNA_225_8 samples	none	Trả KQ			
+x	2536800	mt225	1F, 1R dyeblob	PCR-BD 1F, 1R	20251025_mtDNA_225_8 samples	none	Trả KQ			
+x	2536801	mt225	3R, 1F, 1R dyeblob; 1R tín hiệu yếu	PCR-BD 3F, 1F, 1R, R389	20251025_mtDNA_225_8 samples	none	Trả KQ			
+x	2536820	mt225	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_225_8 samples	none	Trả KQ			
+x	2536848	mt225	3R peak spike	PCR-BD 3F	20251025_mtDNA_225_8 samples	none	Trả KQ			
+x	2536859	mt225	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_225_8 samples	73-340 438-573 16024-16365	Trả KQ			
+2545889	2545889	mt233	3R nền cao (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_233_3 samples	none				
+2545920	2545920	mt233	2F nền cao	PCR-BD 2F	20251025_mtDNA_233_3 samples	none				
+2546007	2546007	mt233	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_233_3 samples	73-340 438-573 16024-16365				
+x	2537824	mt232	3R polyAC (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_232_6 samples	73-340 438-522 16024-16365	Trả KQ			
+x	2537841	mt232	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_232_6 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2537854	mt232	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_232_6 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2537826	mt232	1F dyeblob	PCR-BD 1F	20251025_mtDNA_232_6 samples	none	Trả KQ			
+x	2537799	mt232	3R nền cao (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_232_6 samples	none	Trả KQ			
+x	2537837	mt232	1F peak spike, 3R polyAC (AC repeat)	PCR-BD 1F, 3F	20251025_mtDNA_232_6 samples	none	Trả KQ			
+x	2549592	mt236	1F nền cao + dyeblob	PCR-BD 1F	20251025_mtDNA_236_7 samples	none	Trả KQ			
+x	2549598	mt236	2F nền cao + dyeblob, 3R polyC	PCR-BD 2F, 3F, R389	20251025_mtDNA_236_7 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2549608	mt236	3R ngắn	R389	20251025_mtDNA_236_7 samples	none	Trả KQ			
+x	2549622	mt236	1F ngắn	PCR-BD 1F	20251025_mtDNA_236_7 samples	none	Trả KQ			
+x	2549632	mt236	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_236_7 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2549653	mt236	1F nền cao + dyeblob	PCR-BD 1F	20251025_mtDNA_236_7 samples	none	Trả KQ			
+x	2549657	mt236	3R nền cao + dyeblob	PCR-BD 3F, R389	20251025_mtDNA_236_7 samples	none	Trả KQ			
+x	2536948	mt235	1F dyeblob	PCR-BD 1F	20251025_mtDNA_235_9 samples	none	Trả KQ			
+x	2548358	mt235	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_235_9 samples	73-340 438-522 16024-16365	Trả KQ			
+x	2548361	mt235	1R nền cao + dyeblob	PCR-BD 1R	20251025_mtDNA_235_9 samples	none	Trả KQ			
+x	2548362	mt235	1R nhiễu + dyeblob	PCR-BD 1R	20251025_mtDNA_235_9 samples	none	Trả KQ			
+x	2548363	mt235	1R nhiễu	PCR-BD 1R	20251025_mtDNA_235_9 samples	none	Trả KQ			
+x	2548395	mt235	3R nhiễu + dyeblob	PCR-BD 3R	20251025_mtDNA_235_9 samples	none	Trả KQ			
+x	2548400	mt235	1F dyeblob, 2F nền cao	PCR-BD 1F, 2F	20251025_mtDNA_235_9 samples	none	Trả KQ			
+x	2548419	mt235	1F ngắn	PCR-BD 1F	20251025_mtDNA_235_9 samples	none	Trả KQ			
+x	2548423	mt235	3R ngắn	PCR-BD 3R	20251025_mtDNA_235_9 samples	none	Trả KQ			
+x	2557217	mt238	3R nền cao	PCR-BD 3F, R389	20251025_mtDNA_238_4 samples	none	Trả KQ			
+x	2557232	mt238	3R nền cao (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_238_4 samples	none	Trả KQ			
+x	2557499	mt238	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_238_4 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2557502	mt238	1R peak shoulder	PCR-BD 1R	20251025_mtDNA_238_4 samples	none	Trả KQ			
+x	2555402	mt237	1R peak shoulder	PCR-BD 1R	20251025_mtDNA_237_1 sample	none	Trả KQ			
+x	2537915	mt234	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_234_4 sample	73-340 438-573 16024-16365	Trả KQ			
+x	2537919	mt234	3R nền cao + dyeblob	PCR-BD 3F, R389	20251025_mtDNA_234_4 sample	none	Trả KQ			
+x	2537930	mt234	3R ngắn	R389	20251025_mtDNA_234_4 sample	none	Trả KQ			
+x	2537949	mt234	3R polyAC (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_234_4 sample	73-340 438-524 16024-16365	Trả KQ			
+x	2538045	mt240	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_240_5 samples	73-340 438-573 16024-16365	Trả KQ			
+2538049	2538049	mt240	Nhiễm mẫu (9 vị trí mixed)	Chạy lại từ bước tách	20251025_mtDNA_240_5 samples	Nhiễm mẫu (9 vị trí mixed)	trước mắt lab chạy XN STR dùng dịch tách lần 2 để xác nhận kết quả STR, sau đó sẽ có yêu cầu mới về XN mtDNA			
+x	2538054	mt240	2F peak spike	PCR-BD 2F	20251025_mtDNA_240_5 samples	none	Trả KQ			
+x	2538061	mt240	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_240_5 samples	none	Trả KQ			
+x	2538103	mt240	2F nền cao, 3R nền cao (AC repeat)	PCR-BD 2F, 3F, R389	20251025_mtDNA_240_5 samples	none	Trả KQ			
+x	2537970	mt239	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_239_4 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2538010	mt239	3R polyAC (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_239_4 samples	none	Trả KQ			
+x	2538022	mt239	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_239_4 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2538025	mt239	3R polyAC (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_239_4 samples	73-340 438-522 16024-16365	Trả KQ			
+x	2561046	mt244	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_244_2 samples	73-302 316-340 438-573 16024-16365	Trả KQ			
+x	2561053	mt244	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_244_2 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2538311	mt242	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_242_3 samples	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2538312	mt242	3R ngắn + nền cao	PCR-BD 3R	20251025_mtDNA_242_3 samples	none	Trả KQ			
+x	2538318	mt242	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_242_3 samples	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2538167	mt241	3R polyAC	PCR-BD 3F, R389	20251025_mtDNA_241_1 sample	none	Trả KQ			
+x	2538355	mt243	1R nhiễu	PCR-BD 1R	20251025_mtDNA_243_2 samples	none	Trả KQ			
+x	2538384	mt243	3R nền cao	PCR-BD 3F, R389	20251025_mtDNA_243_2 samples	none	Trả KQ			
+x	2538455	mt245	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_245_1 sample	73-340 438-573 16024-16365	Trả KQ			
+x	2538511	mt246	3R nền cao	PCR-BD 3F, R389	20251025_mtDNA_246_2 samples	none	Trả KQ			
+x	2538587	mt246	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_246_2 samples	73-340 438-573 16024-16365	Trả KQ			
+2538603	2538603	mt247	3R fail	PCR-BD 3F, R389	20251025_mtDNA_247_2 samples	none				
+2538609	2538609	mt247	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_247_2 samples	73-340 438-573 16024-16365				
+2538941	2538941	mt249	3R dyeblob, cần xác minh HV2 (vị trí 73)	PCR-BD 3R, F15 hoặc F6	20251025_mtDNA_249_4 samples	none				
+2538975	2538975	mt249	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_249_4 samples	73-340 438-573 16024-16365				
+2539001	2539001	mt249	3R dyeblob	PCR-BD 3R	20251025_mtDNA_249_4 samples	none				
+2539024	2539024	mt249	cần xác minh HV2 (vị trí 73)	PCR-BD F15 hoặc F6	20251025_mtDNA_249_4 samples	73R				
+2537365	2537365	mt229	2F dyeblob	PCR-BD 2F	20251025_mtDNA_229_1 sample	none				
+x	2545257	mt250	3R peak shoulder	R389	20251025_mtDNA_250_4 samples	none	Trả KQ			
+x	2545264	mt250	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_250_4 samples	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2545299	mt250	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_250_4 samples	73-340 438-576 16024-16217 16236-16289 16299-16365	Trả KQ			
+x	2545289	mt250	316S? 319Y?	PCR-BD R389	20251025_mtDNA_250_4 samples	310Y 316S 319Y	Trả KQ			
+2538867	2538867	mt248	2F dyeblob	PCR-BD 2F	20251025_mtDNA_248_1 sample	none				
+2545797	2545797	mt252	1F nền cao	PCR-BD 1F	20251025_mtDNA_252_4 samples	none				
+2545860	2545860	mt252	2F nền cao + dyeblob	PCR-BD 2F	20251025_mtDNA_252_4 samples	none				
+2545873	2545873	mt252	Nghi ngờ nhiễm 146Y? 230R? 16305R?	Chạy lại từ bước tách	20251025_mtDNA_252_4 samples	146Y? 230R? 16305R?				
+2545878	2545878	mt252	3R nền cao	PCR-BD 3F, R389	20251025_mtDNA_252_4 samples	none				
+2545394	2545394	mt251	1F nền cao	PCR-BD 1F	20251025_mtDNA_251_2 samples	none				
+2545386	2545386	mt251	Đầu 2F tín hiệu kém	PCR-BD 2F	20251025_mtDNA_251_2 samples	none				
+x	2546144	mt253	3R polyC	PCR-BD 3F	20251025_mtDNA_253_2 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2546176	mt253	316S? 319Y?	Tạm giữ lại để phân tích (NGS)	20251025_mtDNA_253_2 samples	none	Trả KQ			
+x	2546218	mt253	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_253_2 samples	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2546279	mt254	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_254_3 samples	73-340 438-576 16024-16217 16234-16289 16299-16365	Trả KQ			
+x	2546305	mt254	3R, 1F nền cao	PCR-BD 1F, 3F	20251025_mtDNA_254_3 samples	none	Trả KQ			
+x	2546276	mt254	2F dyeblob	PCR-BD 2F	20251025_mtDNA_254_3 samples	none	Trả KQ			
+2546492	2546492	mt255	3R 455 polyT	PCR-BD 3F, R389	20251025_mtDNA_255_1 sample	none				
+2539038	2539038	mt259	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_259_4 samples	73-340 438-573 16024-16365				
+2539045	2539045	mt259	3R polyC	PCR-BD 3F	20251025_mtDNA_259_4 samples	73-340 438-573 16024-16365				
+2539099	2539099	mt259	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_259_4 samples	73-340 438-573 16024-16365				
+2539106	2539106	mt259	3R polyAC (AC repeat)	PCR-BD 3F, R389	20251025_mtDNA_259_4 samples	73-340 438-524 16024-16365.				
+2546493	2546493	mt256	1F nền cao + dyeblob, 16303S?	PCR-BD 1F, F16190	20251025_mtDNA_256_8 samples	none				
+2546525	2546525	mt256	3R nền cao (AC repeat)	PCR-BD R389	20251025_mtDNA_256_8 samples	none				
+2546532	2546532	mt256	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_256_8 samples	73-340 438-576 16024-16193 16242-16289 16297-16365				
+2546540	2546540	mt256	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_256_8 samples	73-340 438-573 16024-16365				
+2546543	2546543	mt256	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_256_8 samples	73-340 438-573 16024-16366				
+2546550	2546550	mt256	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_256_8 samples	73-340 438-573 16024-16365				
+2546558	2546558	mt256	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_256_8 samples	73-340 438-573 16024-16366				
+2546571	2546571	mt256	3R nền cao	PCR-BD 3F, R389	20251025_mtDNA_256_8 samples	none				
+2539128	2539128	mt260	2F fail, 3R polyC	PCR-BD 2F, 3F, R389	20251025_mtDNA_260_3 samples	73-340 438-573 16024-16365				
+2539145	2539145	mt260	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_260_3 samples	73-340 438-573 16024-16365				
+2539167	2539167	mt260	3R peak shoulder	PCR-BD 3F, R389	20251025_mtDNA_260_3 samples	none				
+x	2546769	mt257	2F nền cao + dyeblob	PCR-BD 2F	20251025_mtDNA_257_3 samples	none	Trả KQ			
+x	2546797	mt257	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_257_3 samples	73-340 438-576 16024-16217 16238-16289 16299-16365	Trả KQ			
+x	2546812	mt257	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251025_mtDNA_257_3 samples	73-340 438-576 16024-16217 16236-16289 16299-16365	Trả KQ			
+2547039	2547039	mt258	1F dyeblob, 16041R?	PCR-BD 1F	20251025_mtDNA_258_5 samples	none				
+2547049	2547049	mt258	2F nền cao	PCR-BD 2F	20251025_mtDNA_258_5 samples	none				
+2547057	2547057	mt258	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_258_5 samples	73-302 308-340 438-573 16024-16365				
+2547095	2547095	mt258	2F nền cao	PCR-BD 2F	20251025_mtDNA_258_5 samples	73-302 316-340 438-576 16024-16365				
+2547118	2547118	mt258	2F nền cao	PCR-BD 2F	20251025_mtDNA_258_5 samples	none				
+2539214	2539214	mt261	3R polyC	PCR-BD 3F, R389	20251025_mtDNA_261_1 sample	73-340 438-573 16024-16365				
+LN_25_AA0001	LN_25_AA0001	20251017_MS_091025_001	2F nền cao, 3R nền cao (AC repeat)	PCR-BD 2F, 3F, R389						
+LN_25_AA0054	LN_25_AA0054	20251017_MS_091025_001	3R polyC	PCR-BD 3F, R389						
+2539334	2539334	mt262	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_262_5 samples	73-340 438-573 16024-16365				
+2539338	2539338	mt262	3R ngắn	PCR-BD 3R	20251205_mtDNA_262_5 samples	none				
+2539339	2539339	mt262	3R fail	PCR-BD 3F, R389	20251205_mtDNA_262_5 samples	none				
+2539384	2539384	mt262	1F nền cao + dyeblob	PCR-BD 1F	20251205_mtDNA_262_5 samples	none				
+2539391	2539391	mt262	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_262_5 samples	none				
+2539406	2539406	mt263	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_263_3 mẫu	none				
+2539423	2539423	mt263	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_263_3 mẫu	none				
+2539475	2539475	mt263	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_263_3 mẫu	none				
+2541140	2541140	mt264	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_264_1 mẫu	73-340 438-573 16024-16365				
+x	2564819	mt265	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_265_2 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2564797	mt265	2F dyeblob	PCR-BD 2F	20251205_mtDNA_265_2 mẫu	none	Trả KQ			
+2539618	2539618	mt267	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_267_2 samples	73-340 438-573 16024-16365				
+2539670	2539670	mt267	2F dyeblob	PCR-BD 2F	20251205_mtDNA_267_2 samples	none				
+2539521	2539521	mt266	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_266_3 mẫu	none				
+2539527	2539527	mt266	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_266_3 mẫu	none				
+2539538	2539538	mt266	3R nền cao	PCR-BD 3F, R389	20251205_mtDNA_266_3 mẫu	none				
+2569764	2569764	mt269	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_269_4 samples	73-340 438-573 16024-16365				
+2569793	2569793	mt269	2F nền cao	PCR-BD 2F	20251205_mtDNA_269_4 samples	none				
+2569798	2569798	mt269	3R tín hiệu yếu	PCR-BD 3F, R389	20251205_mtDNA_269_4 samples	none				
+2569799	2569799	mt269	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_269_4 samples	none				
+x	2539862	mt268	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_268_2 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2539880	mt268	2F peak shoulder	PCR-BD 2F	20251205_mtDNA_268_2 mẫu	none	Trả KQ			
+2539890	2539890	mt268	1R length heteroplasmy (16263.1c)?	Tạm giữ lại để phân tích tiếp (NGS)		73-340 438-576 16024-16255 16265-16365				
+2569026	2569026	mt283	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_283_1 mẫu	73-340 438-573 16024-16365				
+2540066	2540066	mt271	316S 319Y	Tạm giữ lại để phân tích (NGS)		none				
+2540100	2540100	mt271	2F nhiễu	PCR-BD F109, R285a	20251205_mtDNA_271_1 mẫu	none				
+x	2539999	mt270	1F ngắn	PCR-BD 1F	20251205_mtDNA_270_2 mẫu	none	Trả KQ			
+x	2540014	mt270	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_270_2 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+2540125	2540125	mt272	2F ngắn	PCR-BD 2F	20251205_mtDNA_272_1 mẫu	none				
+2540321	2540321	mt274	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_274_1 mẫu	none				
+x	2568364	mt278_L1	3R nền cao (AC repeat)	PCR-BD 3F, R389	278_l1	none	Trả KQ			
+x	2570192	mt278_L1	3R nền cao (AC repeat)	PCR-BD 3F, R389	278_l1	none	Trả KQ			
+2540813	2540813	mt278_L2	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_278_2 mẫu	none				
+2540841	2540841	mt278_L2	3R tín hiệu peak thấp	PCR-BD 3F, R389	20251205_mtDNA_278_2 mẫu	none				
+2540998	2540998	mt280	3R nền cao	PCR-BD 3F, R389	20251205_mtDNA_280_7 mẫu	none				
+2540999	2540999	mt280	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_280_7 mẫu	none				
+2541000	2541000	mt280	3R nền cao (AC repeat)	PCR-BD 3F, R389	20251205_mtDNA_280_7 mẫu	none				
+2541071	2541071	mt280	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_280_7 mẫu	73-340 438-573 16024-16365				
+2541005	2541005	mt280	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_280_7 mẫu	none				
+2541006	2541006	mt280	3R nền cao	PCR-BD 3F, R389	20251205_mtDNA_280_7 mẫu	none				
+2541044	2541044	mt280	Fail trình tự	PCR-BD 1F, 1R, 2F, 3R	20251205_mtDNA_280_7 mẫu	none				
+2541374	2541374	mt282	Nghi ngờ nhầm mẫu (1F 1R mismatch)	Chạy lại từ bước tách chiết	20251205_mtDNA_282_3 mẫu	Kết quả giữa 2 lần không khớp cả 3 vùng	Chạy lại từ bước tách để xác nhận			
+2541359	2541359	mt282	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_282_3 mẫu	73-340 438-573 16024-16365				
+2541332	2541332	mt282	3R poly C	PCR-BD 3F, R389	20251205_mtDNA_282_3 mẫu	73-340 438-573 16024-16365				
+x	2541416	mt284	3R poly C	PCR-BD 3F, R389	20251205_mtDNA_284_3 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2541383	mt284	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_284_3 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2541443	mt284	16076S, 16193Y, 16189Y?	tách lại để xác nhận	20251205_mtDNA_284_3 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2541257	mt281	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_281_1 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+2541595	2541595	mt286	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_286_4 mẫu	73-340 438-573 16024-16365				
+2541600	2541600	mt286	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_286_4 mẫu	none				
+2541633	2541633	mt286	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_286_4 mẫu	73-340 438-573 16024-16365				
+2541596	2541596	mt286	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_286_4 mẫu	none				
+2541498	2541498	mt285	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_285_2 mẫu	73-340 438-572 16024-16365				
+2541476	2541476	mt285	1R dyeblob	PCR-BD 1R	20251205_mtDNA_285_2 mẫu	none				
+2541660	2541660	mt287	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_287_9 samples	none				
+2541661	2541661	mt287	2F, 3R nền cao	PCR-BD 2F, 3F, R389	20251205_mtDNA_287_9 samples	none				
+2541662	2541662	mt287	3R nền cao	PCR-BD 3F, R389	20251205_mtDNA_287_9 samples	none				
+2541669	2541669	mt287	2F nền cao	PCR-BD 2F	20251205_mtDNA_287_9 samples	none				
+2541678	2541678	mt287	2F nền cao	PCR-BD 2F	20251205_mtDNA_287_9 samples	none				
+2541685	2541685	mt287	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_287_9 samples	73-340 438-573 16024-16365				
+2541692	2541692	mt287	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_287_9 samples	73-340 438-573 16024-16365				
+2541707	2541707	mt287	3R nền cao	PCR-BD 3F, R389	20251205_mtDNA_287_9 samples	none				
+2541731	2541731	mt287	3R nền cao	PCR-BD 3F, R389	20251205_mtDNA_287_9 samples	none				
+x	2541939	mt290	3R fail	PCR-BD 3F, R389	20251205_mtDNA_290_6 mẫu	none	Trả KQ			
+x	2541942	mt290	3R polyC (460T-C)	PCR-BD 3F, R389	20251205_mtDNA_290_6 mẫu	73-340 438-455 464-576 16024-16365	Trả KQ			
+x	2541975	mt290	2F tín hiệu yếu; 3R polyC	PCR-BD 2F, 3F, R389	20251205_mtDNA_290_6 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2541989	mt290	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_290_6 mẫu	73-340 438-573 16024-16365	Trả KQ			
+x	2541990	mt290	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_290_6 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2541988	mt290	3R tín hiệu peak thấp	PCR-BD 3F, R389	20251205_mtDNA_290_6 mẫu	none	Trả KQ			
+2541864	2541864	mt289	2F tín hiệu phức tạp	PCR-BD 2F	20251205_mtDNA_289_3 mẫu	none				
+2541901	2541901	mt289	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_289_3 mẫu	73-340 438-573 16024-16365				
+2541914	2541914	mt289	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_289_3 mẫu	73-340 438-573 16024-16365				
+x	2542016	mt291	1F dye blob	PCR-BD 1F	20251205_mtDNA_291_8 samples	none	Trả KQ			
+x	2542018	mt291	3R polyC (460T-C)	PCR-BD 3F, R389	20251205_mtDNA_291_8 samples	73-340 438-455 464-576 16024-16365	Trả KQ			
+x	2542020	mt291	2F peak shoulder	PCR-BD 2F	20251205_mtDNA_291_8 samples	none	Trả KQ			
+x	2542031	mt291	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_291_8 samples	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2542021	mt291	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_291_8 samples	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2542172	mt291	1R peak shoulder	PCR-BD 1R	20251205_mtDNA_291_8 samples	none	Trả KQ			
+x	2542201	mt291	3R nhiễu	PCR-BD 3F, R389	20251205_mtDNA_291_8 samples	none	Trả KQ			
+x	2542217	mt291	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_291_8 samples	73-340 438-573 16024-16365	Trả KQ			
+2542239	2542239	mt292	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_292_1 sample	none				
+2542427	2542427	mt294	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_294_3 samples	73-340 438-573 16024-16365				
+2542432	2542432	mt294	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_294_3 samples	73-340 438-573 16024-16365				
+2542464	2542464	mt294	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_294_3 samples	73-340 438-573 16024-16365				
+2542504	2542504	mt295	3R poly C (AC repeat)	PCR-BD 3F, R389	20251205_mtDNA_295_5 samples	73-340 438-522 16024-16365				
+2542544	2542544	mt295	2F nền cao	PCR-BD 2F	20251205_mtDNA_295_5 samples	none				
+2542546	2542546	mt295	3R poly C (AC repeat)	PCR-BD 3F, R389	20251205_mtDNA_295_5 samples	73-340 438-573 16024-16365				
+2542551	2542551	mt295	3R tín hiệu không rõ ràng	PCR-BD 3F, R389	20251205_mtDNA_295_5 samples	none				
+2542520	2542520	mt295	3R poly C (AC repeat)	PCR-BD 3F	20251205_mtDNA_295_5 samples	73-340 438-522 16024-16365				
+x	2542661	mt296	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_296_2 mẫu	none	Trả KQ			
+x	2542706	mt296	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_296_2 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2542323	mt293	3R ngắn	PCR-BD 3R	20251205_mtDNA_293_6 samples	none	Trả KQ			
+x	2542332	mt293	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_293_6 samples	73-340 438-576 16024-16217 16236-16289 16297-16365	Trả KQ			
+x	2542341	mt293	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_293_6 samples	73-340 438-576 16024-16217 16236-16289 16297-16365	Trả KQ			
+x	2542358	mt293	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_293_6 samples	73-340 438-573 16024-16365	Trả KQ			
+x	2542367	mt293	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_293_6 samples	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+x	2542411	mt293	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_293_6 samples	73-340 438-573 16024-16365	Trả KQ			
+2542762	2542762	mt297	3R nhiễu	PCR-BD R389	20251205_mtDNA_297_1 mẫu	none				
+2543028	2543028	mt299	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_299_3 mẫu	73-302 316-340 438-576 16024-16365				
+2543065	2543065	mt299	3R ngắn	PCR-BD 3R	20251205_mtDNA_299_3 mẫu	none				
+2543100	2543100	mt299	2F nhiễu	PCR-BD F109, R285a	20251205_mtDNA_299_3 mẫu	none				
+2543298	2543298	mt302	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_302_2 mẫu	none				
+2543322	2543322	mt302	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_302_2 mẫu	73-340 438-573 16024-16365				
+x	2543263	mt301	1R polyC (16293A-C)	PCR-BD F16190, R16258	20251205_mtDNA_301_1 mẫu	73-340 438-576 16024-16217 16231-16289 16299-16365	Trả KQ			
+2543132	2543132	mt300	2F nhiễu	PCR-BD F109, R285a	20251205_mtDNA_300_1 mẫu	none				
+2543767	2543767	mt305	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_305_3 mẫu	73-340 438-573 16024-16365				
+2543772	2543772	mt305	3R nền cao	PCR-BD 3F, R389	20251205_mtDNA_305_3 mẫu	none				
+2543727	2543727	mt305	3R nền cao (AC repeat)	PCR-BD 3F, R389	20251205_mtDNA_305_3 mẫu	none				
+2543823	2543823	mt306	455.1Y 460T-C	Tạm giữ lại để phân tích	20251205_mtDNA_305	73-340 438-455 464-576 16024-16365				
+2543831	2543831	mt306	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_306_3 mẫu	73-340 438-573 16024-16365				
+2543851	2543851	mt306	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_306_3 mẫu	73-340 438-573 16024-16365				
+2543855	2543855	mt306	3R ngắn	PCR-BD 3R	20251205_mtDNA_306_3 mẫu	none				
+2543412	2543412	mt304	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_304_2 mẫu	73-340 438-573 16024-16365				
+2543413	2543413	mt304	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_304_2 mẫu	none				
+2543942	2543942	mt307	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_307_5 mẫu	73-340 438-573 16024-16365				
+2543964	2543964	mt307	3R fail	PCR-BD 3F, R389	20251205_mtDNA_307_5 mẫu	none				
+2543969	2543969	mt307	2F dyeblob	PCR-BD R285a	20251205_mtDNA_307_5 mẫu	none				
+2543977	2543977	mt307	2F dyeblob	PCR-BD R285a	20251205_mtDNA_307_5 mẫu	none				
+2543915	2543915	mt307	2F dyeblob	PCR-BD R285a	20251205_mtDNA_307_5 mẫu	none				
+2543983	2543983	mt308	3R tín hiệu yếu	PCR-BD 3R	20251205_mtDNA_308_3 samples	none				
+2544029	2544029	mt308	1F nhiễu	PCR-BD 1F	20251205_mtDNA_308_3 samples	none				
+2544062	2544062	mt308	1R fail	PCR-BD 1R	20251205_mtDNA_308_3 samples	none				
+2544080	2544080	mt310	3R polyC	PCR-BD 3F	20251205_mtDNA_310_1 mẫu	73-340 438-573 16024-16365				
+2544324	2544324	mt312	2F nhiễu	PCR-BD F109, R285a	20251205_mtDNA_312_2 mẫu	none				
+2544286	2544286	mt312	1F dyeblob	PCR-BD 1F	20251205_mtDNA_312_2 mẫu	none				
+2544160	2544160	mt311	3R ngắn	PCR-BD 3F, R389	20251205_mtDNA_311_2 mẫu	none				
+2544170	2544170	mt311	3R fail	PCR-BD 3F, R389	20251205_mtDNA_311_2 mẫu	none				
+LN_25_AA0306	LN_25_AA0306	MS_121125_001	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_121125_001	73-340 438-522 526-576 16024-16365				
+LN_25_AA0354	LN_25_AA0354	MS_121125_001	3R polyC	PCR-BD 3F, R389	MS_121125_001	73-340 438-573 16024-16365				
+LN_25_AA0355	LN_25_AA0355	MS_121125_001	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_121125_001	73-340 438-522 526-576 16024-16365				
+LN_25_AA0298	LN_25_AA0298	MS_121125_001	3R ngắn	PCR-BD 3F, R389	MS_121125_001	none				
+LN_25_AA3421	LN_25_AA3421	MS_181125_001	3R polyC	PCR-BD 3F, R389	MS_181125_001	73-340 438-573 16024-16365				
+LN_25_AA3414	LN_25_AA3414	MS_181125_001	3R polyC	PCR-BD 3F, R389	MS_181125_001	73-340 438-573 16024-16365				
+LN_25_AA3399	LN_25_AA3399	MS_181125_001	3R polyC	PCR-BD 3F, R389	MS_181125_001	73-340 438-573 16024-16365				
+LN_25_AA3438	LN_25_AA3438	MS_181125_001	3R Tín hiệu không rõ ràng	PCR-BD 3F, R389	MS_181125_001	none				
+2544344	2544344	mt313	3R tín hiệu phức tạp + dye blob	PCR-BD 3F, R389	20251205_mtDNA_313_3 samples	none				
+2544372	2544372	mt313	3R polyAC	PCR-BD 3F, R389	20251205_mtDNA_313_3 samples	73-340 438-522 526-576 16024-16365				
+2544379	2544379	mt313	3R polyC	PCR-BD 3F, R389	20251205_mtDNA_313_3 samples	73-340 438-573 16024-16365				
+2544437	2544437	mt314	1R nhiễu	PCR-BD 1R	20251205_mtDNA_314_5 mẫu	none				
+2544464	2544464	mt314	2F nhiễu	PCR-BD 2F	20251205_mtDNA_314_5 mẫu	none				
+2544465	2544465	mt314	2F nhiễu	PCR-BD 2F	20251205_mtDNA_314_5 mẫu	none				
+2544491	2544491	mt314	2F nền cao + dye blob	PCR-BD 2F	20251205_mtDNA_314_5 mẫu	none				
+2544505	2544505	mt314	3R nhiễu	PCR-BD 3F, R389	20251205_mtDNA_314_5 mẫu	none				
+LN_25_AA3568	LN_25_AA3568	MS_191125_001	Nhiễm mẫu	Chạy lại từ bước tách -> PCR-BD 2F, 2R, 3F, 3R, 1F, 1R	MS_191125_001	3R giữa 2 lần chạy không khớp	rePCR -> PCR-BD 3F, 3R			
+LN_25_AA3569	LN_25_AA3569	MS_191125_001	Nhiễm mẫu	Chạy lại từ bước tách -> PCR-BD 2F, 2R, 3F, 3R, 1F, 1R	MS_191125_001	3R giữa 2 lần chạy không khớp	rePCR -> PCR-BD 3F, 3R			
+LN_25_AA3586	LN_25_AA3586	MS_191125_001	1R nhiễu	PCR-BD 1R	MS_191125_001	none				
+LN_25_AA2955	LN_25_AA2955	MS_111125_001	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_111125_001	none				
+LN_25_AA3486	LN_25_AA3486	MS_171125_002	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_171125_002	73-340 438-522 526-576 16024-16365				
+LN_25_AA3705	LN_25_AA3705	MS_191125_002	3R polyC	PCR-BD 3F, R389	MS_191125_002	73-340 438-573 16024-16365				
+LN_25_AA3707	LN_25_AA3707	MS_191125_002	3R polyC	PCR-BD 3F, R389	MS_191125_002	73-340 438-573 16024-16365				
+LN_25_AA3805	LN_25_AA3805	MS_211125_002	2F nền cao + dye blob	PCR-BD F109, R285a	MS_211125_002	none				
+LN_25_AA3810	LN_25_AA3810	MS_211125_002	3R ngắn	PCR-BD 3F, R389	MS_211125_002	none				
+LN_25_AA3814	LN_25_AA3814	MS_211125_002	2F nền cao + dye blob	PCR-BD F109, R285a	MS_211125_002	none				
+LN_25_AA3815	LN_25_AA3815	MS_211125_002	2F nền cao + dye blob	PCR-BD F109, R285a	MS_211125_002	none				
+LN_25_AA3870	LN_25_AA3870	MS_211125_002	3R polyC	PCR-BD 3F, R389	MS_211125_002	73-340 438-573 16024-16365				
+LN_25_AA3977	LN_25_AA3977	MS_211125_003	3R nền cao	PCR-BD 3F, R389	MS_211125_003	none				
+LN_25_AA4227	LN_25_AA4227	MS_211125_004	1F dye blob	PCR-BD 1F	MS_211125_004	none				
+LN_25_AA4485	LN_25_AA4485	MS_211125_007	2F nền cao	PCR-BD F109, R285a	MS_211125_007	none				
+LN_25_AA4505	LN_25_AA4505	MS_211125_007	3R nền cao (460T-C)	PCR-BD 3F, R389	MS_211125_007	none				
+LN_25_AA4302	LN_25_AA4302	MS_211125_005	2F nền cao	PCR-BD F109, R285a	MS_211125_005	none				
+LN_25_AA4422	LN_25_AA4422	MS_211125_006	2F nền cao	PCR-BD F109, R285a	MS_211125_006	none				
+LN_25_AA6177	LN_25_AA6177	MS_251125_001	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_251125_001	none				
+LN_25_AA6181	LN_25_AA6181	MS_251125_001	3R polyC	PCR-BD 3F, R389	MS_251125_001	73-340 438-573 16024-16365				
+LN_25_AA4853	LN_25_AA4853	MS_211125_008	3R ngắn	PCR-BD 3F, R389	MS_211125_008	none				
+LN_25_AA6096	LN_25_AA6096	MS_211125_008	3R polyC	PCR-BD 3F, R389	MS_211125_008	73-340 438-573 16024-16365				
+LN_25_AA4813	LN_25_AA4813	MS_211125_008	2F nhiễu	PCR-BD F109, R285a	MS_211125_008	none				
+LN_25_AA4701	LN_25_AA4701	MS_251125_004	3R polyC	PCR-BD 3F, R389	MS_251125_004	73-340 438-573 16024-16365				
+LN_25_AA6203	LN_25_AA6203	MS_251125_002	3R ngắn	PCR-BD 3F, R389	MS_251125_002	none				
+LN_25_AA6252	LN_25_AA6252	MS_251125_002	3R ngắn+dyeblob	PCR-BD 3F, R389	MS_251125_002	none				
+LN_25_AA4539	LN_25_AA4539	MS_251125_003	3R polyC	PCR-BD 3F, R389	MS_251125_003	73-340 438-573 16024-16365				
+LN_25_AA4599	LN_25_AA4599	MS_251125_003	3R polyC	PCR-BD 3F, R389	MS_251125_003	73-340 438-573 16024-16366				
+LN_25_AA4615	LN_25_AA4615	MS_251125_003	3R ngắn	PCR-BD 3F, R389	MS_251125_003	none				
+LN_25_AA4568	LN_25_AA4568	MS_251125_003	compressed peaks? 16354	PCR-BD 1R	MS_251125_003	none				
+LN_25_AA4716	LN_25_AA4716	MS_251125_005	1R polyC (16293A-C)	PCR-BD F16190, R16258						
+LN_25_AA4738	LN_25_AA4738	MS_251125_005	2F + 1F + 1R peak shoulder; 3R ngắn + nền cao	PCR-BD F109, R285a, 3F, R389, 1F, 1R						
+LN_25_AA4779	LN_25_AA4779	MS_251125_005	1R polyC (16293A-C)	PCR-BD F16190, R16258						
+LN_25_AA4759	LN_25_AA4759	MS_251125_005	1F fail	PCR-BD 1F						
+LN_25_AA4791	LN_25_AA4791	MS_251125_005	2F nền cao	PCR-BD F109, R285a						
+LN_25_AA6511	LN_25_AA6511	MS_281125_002	HV3R polyAC	PCR-BD 3F, R389						
+LN_25_AA6458	LN_25_AA6458	MS_281125_001	HV3R polyAC	PCR-BD 3F, R389						
+LN_25_AA6462	LN_25_AA6462	MS_281125_001	HV3R polyC	PCR-BD 3F, R389						
+LN_25_AA6754	LN_25_AA6754	MS_281125_005	3R dyeblob	PCR-BD 3R						
+LN_25_AA6761	LN_25_AA6761	MS_281125_005	2F nền cao, 3R polyC, 1F ngắn + nền cao	PCR-BD F109, R285a, 3F, R389, 1F, 1R						
+LN_25_AA6767	LN_25_AA6767	MS_281125_005	1F tín hiệu kém + nền cao	PCR-BD 1F						
+LN_25_AA6769	LN_25_AA6769	MS_281125_005	1F tín hiệu kém	PCR-BD 1F						
+LN_25_AA6774	LN_25_AA6774	MS_281125_005	1F tín hiệu kém + nền cao	PCR-BD 1F						
+LN_25_AA6775	LN_25_AA6775	MS_281125_005	3R nền cao	PCR-BD 3F, R389						
+LN_25_AA6793	LN_25_AA6793	MS_281125_005	1F nhiễu	PCR-BD 1F						
+LN_25_AA6799	LN_25_AA6799	MS_281125_005	3R nền cao AC repeat	PCR-BD 3F, R389						
+LN_25_AA6800	LN_25_AA6800	MS_281125_005	1F nhiễu	PCR-BD 1F						
+LN_25_AA6816	LN_25_AA6816	MS_281125_005	1F nhiễu	PCR-BD 1F						
+LN_25_AA6831	LN_25_AA6831	MS_281125_005	1F tín hiệu kém + nền cao	PCR-BD 1F						
+LN_25_AA6697	LN_25_AA6697	MS_281125_004	1F tín hiệu kém + nền cao	PCR-BD 1F	MS_281125_004_2 mẫu	none				
+LN_25_AA6723	LN_25_AA6723	MS_281125_004	3R polyC	PCR-BD 3F, R389	MS_281125_004_2 mẫu	none				
+LN_25_AA6641	LN_25_AA6641	MS_281125_003	3R nền cao (460T-C)	PCR-BD 3F	MS_281125_003_1 mẫu	none				
+LN_25_AA7014	LN_25_AA7014	MS_281125_008	3R polyC	PCR-BD 3F, R389	MS_281125_008_2 mẫu	73-340 438-573 16024-16365				
+LN_25_AA7017	LN_25_AA7017	MS_281125_008	1F nhiễu	PCR-BD 1F	MS_281125_008_2 mẫu	none				
+LN_25_AA7066	LN_25_AA7066	MS_281125_008	455.1Y 460T-C	Tạm giữ lại để phân tích	MS_281125_008					
+LN_25_AA6927	LN_25_AA6927	MS_281125_007	3R polyC	PCR-BD 3F, R389						
+LN_25_AA6951	LN_25_AA6951	MS_281125_007	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_25_AA6954	LN_25_AA6954	MS_281125_007	2F fail	PCR-BD 2F						
+LN_25_AA6957	LN_25_AA6957	MS_281125_007	3R polyC	PCR-BD 3F, R389						
+LN_25_AA6974	LN_25_AA6974	MS_281125_007	3R polyC	PCR-BD 3F, R389						
+LN_25_AA6975	LN_25_AA6975	MS_281125_007	3R polyC	PCR-BD 3F, R389						
+LN_25_AA6978	LN_25_AA6978	MS_281125_007	3R polyC	PCR-BD 3F, R389						
+LN_25_AA6991	LN_25_AA6991	MS_281125_007	3R polyC	PCR-BD 3F, R389						
+LN_25_AA6992	LN_25_AA6992	MS_281125_007	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_25_AA6999	LN_25_AA6999	MS_281125_007	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_25_AA7005	LN_25_AA7005	MS_281125_007	3R nền cao trước AC repeat	PCR-BD 3R						
+LN_25_AA6867	LN_25_AA6867	MS_281125_006	1F dye blob	PCR-BD 1F	MS_281125_006_2 mẫu	none				
+LN_25_AA6890	LN_25_AA6890	MS_281125_006	2F dye blob	PCR-BD 2F	MS_281125_006_2 mẫu	none				
+LN_25_AA7164	LN_25_AA7164	MS_301125_001	3R polyC	PCR-BD 3F, R389	MS_301125_001_2 mẫu	73-340 438-573 16024-16365				
+LN_25_AA7168	LN_25_AA7168	MS_301125_001	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_301125_001_2 mẫu	none				
+LN_25_AA7279	LN_25_AA7279	MS_301125_002	2F nền cao	PCR-BD F109, R285a						
+LN_25_AA7406	LN_25_AA7406	MS_301125_003	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_301125_003_2 mẫu	73-340 438-522 526-576 16024-16365				
+LN_25_AA7457	LN_25_AA7457	MS_301125_003	1R polyC (16293A-C)	PCR-BD F16190, R16258	MS_301125_003_2 mẫu	73-340 438-576 16024-16193 16242-16289 16297-16365				
+LN_25_AA7533	LN_25_AA7533	MS_301125_004	3R polyC	PCR-BD 3F	MS_301125_004_1 mẫu	73-340 438-573 16024-16365				
+LN_25_AA7324	LN_25_AA7324	MS_031225_001	1R polyC (16293 A-C)	PCR-BD F16190, R16258	MS_031225_001_2 samples	73-340 438-576 16024-16193 16297-16365				
+LN_25_AA7350	LN_25_AA7350	MS_031225_001	1R polyC (16293 A-C)	PCR-BD F16190, R16258	MS_031225_001_2 samples	73-340 438-576 16024-16193 16297-16365				
+LN_25_AA7725	LN_25_AA7725	MS_031225_003	fail	Chạy lại từ bước tách -> PCR-BD 2F, 2R, 3F, 3R, 1F, 1R						
+LN_25_AA8280	LN_25_AA8280	MS_061225_003	3R polyAC	PCR-BD 3F, R389	MS_061225_003_2 samples	73-340 438-522 526-576 16024-16365				
+LN_25_AA8306	LN_25_AA8306	MS_061225_003	3R polyAC	PCR-BD 3F, R389	MS_061225_003_2 samples	73-340 438-522 526-576 16024-16365				
+LN_25_AA8476	LN_25_AA8476	MS_061225_005	3R tín hiệu không rõ ràng	PCR-BD R389	MS_061225_005_2 samples	none				
+LN_25_AA8485	LN_25_AA8485	MS_061225_005	3R polyC	PCR-BD 3F, R389	MS_061225_005_2 samples	73-340 438-573 16024-16365				
+LN_25_AA8159	LN_25_AA8159	MS_061225_002	1F nền cao, 16093Y?	PCR-BD 1F						
+LN_25_AA8542	LN_25_AA8542	MS_061225_008	3R polyC	PCR-BD 3F, R389	MS_061225_008_4 samples	73-340 438-573 16024-16365				
+LN_25_AA8562	LN_25_AA8562	MS_061225_008	3R polyC	PCR-BD 3F, R389	MS_061225_008_4 samples	73-340 438-573 16024-16365				
+LN_25_AA8571	LN_25_AA8571	MS_061225_008	2F nhiễu	PCR-BD F109, R285a	MS_061225_008_4 samples	none				
+LN_25_AA8627	LN_25_AA8627	MS_061225_008	Đầu 1F tín hiệu kém	PCR-BD 1F	MS_061225_008_4 samples	none				
+LN_25_AA8044	LN_25_AA8044	MS_061225_001	1R polyC (16293A-C)	PCR-BD F16190, R16258	MS_061225_001_1 sample	73-340 438-576 16024-16193 16297-16365				
+LN_25_AA8429	LN_25_AA8429	MS_061225_004	1F fail	PCR-BD 1F	MS_061225_004_1 sample	none				
+LN_25_AA7758	LN_25_AA7758	MS_031225_004	3R polyC	PCR-BD 3F, R389	MS_031225_004_6 samples	73-340 438-573 16024-16365				
+LN_25_AA7765	LN_25_AA7765	MS_031225_004	3R polyC	PCR-BD 3F	MS_031225_004_6 samples	73-340 438-573 16024-16365				
+LN_25_AA7786	LN_25_AA7786	MS_031225_004	3R polyAC	PCR-BD 3F, R389	MS_031225_004_6 samples	73-340 438-522 526-576 16024-16365				
+LN_25_AA7791	LN_25_AA7791	MS_031225_004	3R polyC	PCR-BD 3F	MS_031225_004_6 samples	73-340 438-573 16024-16365				
+LN_25_AA7801	LN_25_AA7801	MS_031225_004	2F nhiễu	PCR-BD F109, R285a	MS_031225_004_6 samples	none				
+LN_25_AA7809	LN_25_AA7809	MS_031225_004	3R polyC	PCR-BD 3F	MS_031225_004_6 samples	73-340 438-573 16024-16365				
+LN_25_AA8237	LN_25_AA8237	MS_031225_005	2F fail	PCR-BD F109, R285a						
+LN_25_AA8785	LN_25_AA8785	MS_061225_010	1F nền cao	PCR-BD 1F	MS_061225_010_2 samples	nhiễm mẫu 16140Y, 16162R, 16183M, 16189Y ???				
+LN_25_AA8803	LN_25_AA8803	MS_061225_010	1F fail	PCR-BD 1F	MS_061225_010_2 samples	none				
+LN_25_AA7825	LN_25_AA7825	MS_061225_006	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_061225_006_3 samples	none				
+LN_25_AA7861	LN_25_AA7861	MS_061225_006	3R ngắn	PCR-BD 3F, R389	MS_061225_006_3 samples	none				
+LN_25_AA7866	LN_25_AA7866	MS_061225_006	2F dye blob	PCR-BD 2F	MS_061225_006_3 samples	none				
+LN_25_AA8641	LN_25_AA8641	MS_061225_009	3R polyC, 1F dye blob (16076)?	PCR-BD 3F, R389, 1F						
+LN_25_AA8643	LN_25_AA8643	MS_061225_009	2F, 3R fail	PCR-BD F109, R2585a, 3F, R389						
+LN_25_AB0626	LN_25_AB0626	MS_121225_002	3R polyC	PCR-BD 3F, R389	MS_121225_002_3 samples	none				
+LN_25_AB0635	LN_25_AB0635	MS_121225_002	3R polyC	PCR-BD 3F	MS_121225_002_3 samples	73-340 438-573 16024-16365				
+LN_25_AB0632	LN_25_AB0632	MS_121225_002	3R polyC	PCR-BD 3F	MS_121225_002_3 samples	73-340 438-573 16024-16365				
+LN_25_AA8934	LN_25_AA8934	MS_151225_002	3R polyAC	PCR-BD 3F, R389	MS_151225_002_1 sample	73-340 438-522 526-576 16024-16365				
+LN_25_AA9012	LN_25_AA9012	MS_151225_003	3R polyC	PCR-BD 3F, R389	MS_151225_003_4 samples	73-340 438-573 16024-16365				
+LN_25_AA9055	LN_25_AA9055	MS_151225_003	3R polyC	PCR-BD 3F, R389	MS_151225_003_4 samples	73-340 438-573 16024-16365				
+LN_25_AA9076	LN_25_AA9076	MS_151225_003	1F tín hiệu kém + dye blob	PCR-BD 1F	MS_151225_003_4 samples	none				
+LN_25_AA9078	LN_25_AA9078	MS_151225_003	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_151225_003_4 samples	none				
+LN_25_AA9085	LN_25_AA9085	MS_151225_004	1F tín hiệu yếu, 1R fail	PCR-BD 1F, 1R						
+LN_25_AA9105	LN_25_AA9105	MS_151225_004	3R polyC	PCR-BD 3F, R389						
+LN_25_AA9126	LN_25_AA9126	MS_151225_004	3R nền cao	PCR-BD 3R						
+LN_25_AA9149	LN_25_AA9149	MS_151225_004	3R nhiễu	PCR-BD 3F, R389						
+LN_25_AA9170	LN_25_AA9170	MS_151225_004	2F nhiễu	PCR-BD F109, R285a						
+LN_25_AA9171	LN_25_AA9171	MS_151225_004	2F fail	PCR-BD 2F						
+LN_25_AB0572	LN_25_AB0572	MS_121225_001	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_25_AB0609	LN_25_AB0609	MS_121225_001	2F nền cao, 3R nền cao	PCR-BD 2F, 3F, R389						
+LN_25_AA9361	LN_25_AA9361	MS_181225_002	3R polyC	PCR-BD 3F	MS_181225_002_3 samples	73-340 438-573 16024-16365				
+LN_25_AA9390	LN_25_AA9390	MS_181225_002	3R fail	PCR-BD 3F, R389	MS_181225_002_3 samples	none				
+LN_25_AA9395	LN_25_AA9395	MS_181225_002	3R nền cao (AC repeat)	PCR-BD 3F, R389	MS_181225_002_3 samples	73-340 438-522 526-576 16024-16365				
+LN_25_AA0947	LN_25_AA0947	MS_221225_001	3R polyC	PCR-BD 3F	MS_221225_001_4 samples	73-340 438-573 16024-16362				
+LN_25_AA0980	LN_25_AA0980	MS_221225_001	1F tín hiệu giảm đột ngột	PCR-BD 1F	MS_221225_001_4 samples	none				
+LN_25_AA0981	LN_25_AA0981	MS_221225_001	3R polyC	PCR-BD 3F, R389	MS_221225_001_4 samples	73-340 438-573 16024-16364				
+LN_25_AA0983	LN_25_AA0983	MS_221225_001	3R polyC	PCR-BD 3F, R389	MS_221225_001_4 samples	73-340 438-573 16024-16365				
+LN_25_AA9443	LN_25_AA9443	MS_181225_003	2F nền cao + dye blob	PCR-BD 2F						
+LN_25_AA9487	LN_25_AA9487	MS_181225_003	3R ngắn + dye blob	PCR-BD 3F, R389						
+LN_25_AA9512	LN_25_AA9512	MS_181225_003	2F nền cao	PCR-BD F109, R285a						
+LN_25_AA9938	LN_25_AA9938	MS_231225_001	3R ngắn	PCR-BD 3R						
+LN_25_AA9181	LN_25_AA9181	MS_151225_005	2F nền cao + dyeblob + ngắn, 3R tín hiệu yếu + dyeblob	PCR-BD 2F, 3R						
+LN_25_AA9183	LN_25_AA9183	MS_151225_005	2F nền cao + dyeblob + ngắn, 3R polyC	PCR-BD 2F, 3F, R389						
+LN_25_AA9189	LN_25_AA9189	MS_151225_005	2F ngắn	PCR-BD 2F						
+LN_25_AA9192	LN_25_AA9192	MS_151225_005	2F nền cao + dyeblob + ngắn, 3R tín hiệu yếu + dyeblob	PCR-BD 2F, 3R						
+LN_25_AA9225	LN_25_AA9225	MS_151225_005	2F ngắn, 3R polyC	PCR-BD 2F, 3F, R389						
+LN_25_AA9240	LN_25_AA9240	MS_151225_005	3R polyC	PCR-BD 3F, R389						
+LN_25_AA9244	LN_25_AA9244	MS_151225_005	3R fail	PCR-BD 3F						
+LN_25_AA9250	LN_25_AA9250	MS_151225_005	3R polyC	PCR-BD 3F						
+LN_25_AA9662	LN_25_AA9662	MS_181225_005	2F dyeblob	PCR-BD 2F	MS_181225_005_3 samples	none				
+LN_25_AA9668	LN_25_AA9668	MS_181225_005	3R polyC	PCR-BD 3F, R389	MS_181225_005_3 samples	73-340 438-573 16024-16365				
+LN_25_AA9685	LN_25_AA9685	MS_181225_005	3R polyC	PCR-BD 3F, R389	MS_181225_005_3 samples	73-340 438-573 16024-16366				
+LN_25_AA9742	LN_25_AA9742	MS_181225_006	182Y 16093Y 16194M 16195Y ?	Chạy lại từ bước tách -> PCR-BD 2F, 3R, 1F, 1R	MS_181225_006_1 sample	182Y, 16093Y, 16194M, 16195Y ???				
+LN_25_AA9823	LN_25_AA9823	MS_221225_002	3R polyC	PCR-BD 3F						
+LN_25_AA9824	LN_25_AA9824	MS_221225_002	1F nền cao	PCR-BD 1F						
+LN_25_AA9846	LN_25_AA9846	MS_221225_002	1F nền cao	PCR-BD 1F						
+LN_25_AB0093	LN_25_AB0093	MS_241225_001	3R ngắn + dyeblob	PCR-BD 3F, R389						
+LN_25_AB0104	LN_25_AB0104	MS_241225_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AB0108	LN_25_AB0108	MS_241225_001	3R ngắn + dyeblob	PCR-BD 3F, R389						
+LN_25_AB0162	LN_25_AB0162	MS_241225_001	3R ngắn + dyeblob	PCR-BD 3F, R389						
+LN_25_AB0075	LN_25_AB0075	MS_241225_001	3R polyAC	PCR-BD 3F, R389						
+LN_25_AB0105	LN_25_AB0105	MS_241225_001	3R polyAC	PCR-BD 3F, R389						
+LN_25_AB0119	LN_25_AB0119	MS_241225_001	3R nền cao	PCR-BD 3F						
+LN_25_AB0147	LN_25_AB0147	MS_241225_001	2F dyeblob	PCR-BD 2F						
+LN_25_AB0131	LN_25_AB0131	MS_241225_001	3R dyeblob + tín hiệu yếu	PCR-BD 3R						
+LN_25_AB0141	LN_25_AB0141	MS_241225_001	3R tín hiệu yếu	PCR-BD 3R						
+LN_25_AB0080	LN_25_AB0080	MS_241225_001	3R nền cao + tín hiệu yếu	PCR-BD 3F, R389						
+LN_25_AB0183	LN_25_AB0183	MS_241225_002	3R dyeblob + tín hiệu yếu	PCR-BD 3R						
+LN_25_AB0235	LN_25_AB0235	MS_241225_002	3R polyC	PCR-BD 3F						
+LN_25_AB0236	LN_25_AB0236	MS_241225_002	3R polyC	PCR-BD 3F						
+LN_25_AB0237	LN_25_AB0237	MS_241225_002	3R polyC	PCR-BD 3F						
+LN_25_AB0238	LN_25_AB0238	MS_241225_002	3R polyC	PCR-BD 3F						
+LN_25_AB0176	LN_25_AB0176	MS_241225_002	3R nền cao	PCR-BD 3F						
+LN_25_AB0216	LN_25_AB0216	MS_241225_002	3R dyeblob	PCR-BD 3R						
+LN_25_AB0218	LN_25_AB0218	MS_241225_002	2F dyeblob + 3R tín hiệu yếu	PCR-BD 2F, 3F						
+LN_25_AB0173	LN_25_AB0173	MS_241225_002	3R polyAC + tín hiệu yếu	PCR-BD 3F, R389						
+LN_25_AB0229	LN_25_AB0229	MS_241225_002	3R dyeblob	PCR-BD 3R						
+LN_25_AB0360	LN_25_AB0360	MS_241225_004	3R poly	PCR-BD 3F						
+LN_25_AB0407	LN_25_AB0407	MS_241225_004	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_25_AB0928	LN_25_AB0928	MS_060126_002	3R polyC	PCR-BD 3F						
+LN_25_AB0966	LN_25_AB0966	MS_060126_002	2F nền cao	PCR-BD F109, R285a						
+LN_25_AB0905	LN_25_AB0905	MS_060126_002	3R polyC	PCR-BD 3F						
+LN_25_AB0945	LN_25_AB0945	MS_060126_002	3R nền cao + tín hiệu yếu	PCR-BD 3F, R389						
+LN_25_AB0929	LN_25_AB0929	MS_060126_002	16038.1A?	RePCR -> PCR-BD bằng mồi 1F khác						
+LN_25_AB0832	LN_25_AB0832	MS_060126_001	16038.1A?	RePCR -> PCR-BD bằng mồi 1F khác						
+LN_25_AB0769	LN_25_AB0769	MS_050126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AB0788	LN_25_AB0788	MS_050126_001	3R polyAC	PCR-BD 3F, R389						
+LN_25_AB0759	LN_25_AB0759	MS_050126_001	291.1A 291.2A?	PCR-BD 2F						
+LN_25_AB0262	LN_25_AB0262	MS_241225_003	3R polyC	PCR-BD 3F						
+LN_25_AB0271	LN_25_AB0271	MS_241225_003	3R polyC	PCR-BD 3F						
+LN_25_AB0327	LN_25_AB0327	MS_241225_003	3R polyC	PCR-BD 3F						
+LN_25_AB0992	LN_25_AB0992	MS_060126_003	1F 16187C 16188T; 1R 16187Y 16188Y?	Tách chiết lại						
+LN_25_AB1021	LN_25_AB1021	MS_060126_003	3R nền cao	PCR-BD 3F, R389						
+LN_25_AB1041	LN_25_AB1041	MS_060126_003	3R nền cao (AC repeat)	PCR-BD 3F						
+LN_25_AB1280	LN_25_AB1280	MS_070126_001	3R polyC	PCR-BD 3F						
+LN_25_AB1295	LN_25_AB1295	MS_070126_001	3R polyC	PCR-BD 3F						
+LN_25_AB1318	LN_25_AB1318	MS_070126_001	3R nền cao	PCR-BD 3F, R389						
+LN_25_AB1321	LN_25_AB1321	MS_070126_001	2F, 3R fail	PCR-BD 2F, 3F, R389						
+LN_25_AB1346	LN_25_AB1346	MS_070126_002	1F nền cao, dyeblob	PCR-BD 1F						
+LN_25_AB1398	LN_25_AB1398	MS_070126_002	2F nền cao	PCR-BD F109, R285a						
+LN_25_AB1424	LN_25_AB1424	MS_100126_001	3R polyC	PCR-BD 3F						
+LN_25_AB1430	LN_25_AB1430	MS_100126_001	3R nền cao	PCR-BD 3F, R389						
+LN_25_AB1440	LN_25_AB1440	MS_100126_001	3R polyC (460 T-C)	PCR-BD 3F, R389						
+LN_25_AB1471	LN_25_AB1471	MS_100126_001	1R tín hiệu yếu	PCR-BD 1R						
+LN_25_AB1491	LN_25_AB1491	MS_100126_001	3R polyC (460 T-C)	PCR-BD 3F, R389						
+LN_25_AA0143	LN_25_AA0143	MS_120126_002	2F nền cao	PCR-BD F109, R285a						
+LN_25_AA0174	LN_25_AA0174	MS_120126_002	2F nền cao	PCR-BD F109, R285a						
+LN_25_AA0176	LN_25_AA0176	MS_120126_002	152W?	PCR-BD R285a						
+LN_25_AB1592	LN_25_AB1592	MS_100126_002	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_25_AB1620	LN_25_AB1620	MS_120126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AB1633	LN_25_AB1633	MS_120126_001	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_25_AA2903	LN_25_AA2903	MS_120126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0554	LN_25_AA0554	MS_140126_003	3R nền cao	PCR-BD 3R						
+LN_25_AA0571	LN_25_AA0571	MS_140126_003	3R polyC	PCR-BD 3F						
+LN_25_AA0578	LN_25_AA0578	MS_140126_003	3R polyC	PCR-BD 3F						
+LN_25_AA0587	LN_25_AA0587	MS_140126_003	3R polyC	PCR-BD 3F						
+LN_25_AA0594	LN_25_AA0594	MS_140126_003	3R polyC	PCR-BD 3F						
+LN_25_AA0614	LN_25_AA0614	MS_140126_003	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0616	LN_25_AA0616	MS_140126_003	3R polyAC	PCR-BD 3F, R389						
+LN_25_AA0238	LN_25_AA0238	MS_120126_003	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0239	LN_25_AA0239	MS_120126_003	3R polyC	PCR-BD 3F						
+LN_25_AA0266	LN_25_AA0266	MS_120126_003	3R polyAC	PCR-BD 3F, R389						
+LN_25_AA0267	LN_25_AA0267	MS_120126_003	2F nền cao	PCR-BD F109, R285a						
+LN_25_AA0465	LN_25_AA0465	MS_140126_002	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0645	LN_25_AA0645	MS_150126_001	2F nền cao, 1F dyeblob	PCR-BD F109, R285a, 1F						
+LN_25_AA0695	LN_25_AA0695	MS_150126_001	1R dyeblob	PCR-BD 1R						
+LN_25_AA0372	LN_25_AA0372	MS_140126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0401	LN_25_AA0401	MS_140126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0721	LN_25_AA0721	MS_150126_002	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0730	LN_25_AA0730	MS_150126_002	3R ngắn	PCR-BD 3F, R389						
+LN_25_AA0772	LN_25_AA0772	MS_150126_002	2F nền cao	PCR-BD F109, R285a						
+LN_25_AA0776	LN_25_AA0776	MS_150126_002	3R ngắn	PCR-BD 3F, R389						
+LN_25_AA0786	LN_25_AA0786	MS_150126_002	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0789	LN_25_AA0789	MS_150126_002	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0790	LN_25_AA0790	MS_150126_002	3R polyC	PCR-BD 3F, R389						
+LN_25_AA0827	LN_25_AA0827	MS_150126_004	3R nền cao (polyAC)	PCR-BD 3F, R389						
+LN_25_AA0835	LN_25_AA0835	MS_150126_004	2F dyeblob	PCR-BD 2F						
+LN_25_AA0889	LN_25_AA0889	MS_150126_004	3R ngắn	PCR-BD 3F, R389						
+LN_25_AA1132	LN_25_AA1132	MS_150126_005	3R nền cao (polyAC)	PCR-BD 3F, R389						
+LN_25_AA1053	LN_25_AA1053	MS_150126_006	3R polyC	PCR-BD 3F, R389						
+LN_25_AA1300	LN_25_AA1300	MS_170126_002	3R nền cao	PCR-BD 3F, R389						
+LN_25_AA1345	LN_25_AA1345	MS_170126_002	2F fail, 3R polyC	PCR-BD 2F, 3F, R389						
+LN_25_AA1350	LN_25_AA1350	MS_170126_002	3R ngắn	PCR-BD 3F, R389						
+LN_25_AA1384	LN_25_AA1384	MS_170126_003	3R polyC	PCR-BD 3F, R389						
+LN_25_AA1429	LN_25_AA1429	MS_170126_003	3R polyC	PCR-BD 3F, R389						
+LN_25_AA1406	LN_25_AA1406	MS_170126_003	3R nền cao (polyAC)	PCR-BD 3F, R389						
+LN_25_AA1544	LN_25_AA1544	MS_190126_002	16086Y?	PCR-BD 1F						
+LN_25_AA1573	LN_25_AA1573	MS_190126_002	16037G?	PCR-BD 1F						
+LN_25_AA1618	LN_25_AA1618	MS_190126_002	3R polyC	PCR-BD 3F, R389						
+LN_25_AA1176	LN_25_AA1176	MS_170126_001	2F dyeblob	PCR-BD 2F						
+LN_25_AA1198	LN_25_AA1198	MS_170126_001	2F dyeblob	PCR-BD 2F						
+LN_25_AA1199	LN_25_AA1199	MS_170126_001	2F dyeblob	PCR-BD 2F						
+LN_25_AA1207	LN_25_AA1207	MS_170126_001	2F dyeblob, 3R nền cao (polyAC)	PCR-BD 2F, 3F, R389						
+LN_25_AA1630	LN_25_AA1630	MS_190126_003	3R polyC	PCR-BD 3F, R389						
+LN_25_AA1672	LN_25_AA1672	MS_190126_003	3R polyC	PCR-BD 3F, R389						
+LN_25_AA1691	LN_25_AA1691	MS_190126_003	3R lỗi định dạng	PCR-BD 3F, R389						
+LN_25_AA1703	LN_25_AA1703	MS_190126_003	2F dyeblob, 3R lỗi định dạng, 1R peak shoulder	PCR-BD 2F, 3F, R389, 1R						
+LN_25_AA1707	LN_25_AA1707	MS_190126_003	3R lỗi định dạng	PCR-BD 3F, R389						
+LN_25_AA1839	LN_25_AA1839	MS_210126_002	3R polyC	PCR-BD 3F, R389						
+LN_25_AA1771	LN_25_AA1771	MS_210126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AA1791	LN_25_AA1791	MS_210126_001	3R nền cao (polyAC)	PCR-BD 3F, R389						
+LN_25_AA2017	LN_25_AA2017	MS_210126_004	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2100	LN_25_AA2100	MS_220126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2116	LN_25_AA2116	MS_220126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2155	LN_25_AA2155	MS_220126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2160	LN_25_AA2160	MS_220126_001	1R tín hiệu yếu	PCR-BD 1R						
+LN_25_AA1897	LN_25_AA1897	MS_210126_003	3R fail	PCR-BD 3F, R389						
+LN_25_AA1973	LN_25_AA1973	MS_210126_003	3R polyC	PCR-BD 3F						
+LN_25_AA2255	LN_25_AA2255	MS_260126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2266	LN_25_AA2266	MS_260126_001	3R nền cao (polyAC)	PCR-BD 3F, R389						
+LN_25_AA2306	LN_25_AA2306	MS_260126_001	1F dyeblob	PCR-BD 1F						
+LN_25_AA2333	LN_25_AA2333	MS_260126_001	3R nền cao	PCR-BD 3F, R389						
+LN_25_AA2180	LN_25_AA2180	MS_220126_002	3R polyC	PCR-BD 3F						
+LN_25_AA2441	LN_25_AA2441	MS_260126_003	3R polyAC	PCR-BD 3F, R389						
+LN_25_AA2495	LN_25_AA2495	MS_260126_003	3R polyC	PCR-BD 3F						
+LN_25_AA2345	LN_25_AA2345	MS_260126_002	3R ngắn	PCR-BD 3F, R389						
+LN_25_AA2527	LN_25_AA2527	MS_260126_004	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2596	LN_25_AA2596	MS_260126_004	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA1143	LN_26_AA1143	MS_290126_002	3R polyC	PCR-BD 3F, R389						
+LN_26_AA1424	LN_26_AA1424	MS_020226_001	1F dyeblob	PCR-BD 1F						
+LN_26_AA1425	LN_26_AA1425	MS_020226_001	2F nền cao, 3R polyC	PCR-BD F109, R285a, 3F, R389						
+LN_26_AA1426	LN_26_AA1426	MS_020226_001	2F nền cao, 3R polyC	PCR-BD F109, R285a, 3F, R389						
+LN_26_AA1437	LN_26_AA1437	MS_020226_001	3R polyC	PCR-BD 3F, R389						
+LN_26_AA1261	LN_26_AA1261	MS_290126_004	1R fail	PCR-BD 1R						
+LN_26_AA1263	LN_26_AA1263	MS_290126_004	2F peak spike	PCR-BD 2F						
+LN_26_AA1273	LN_26_AA1273	MS_290126_004	3R polyC	PCR-BD 3F, R389						
+LN_26_AA1313	LN_26_AA1313	MS_290126_004	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA1331	LN_26_AA1331	MS_290126_004	3R dyeblob	PCR-BD 3R						
+LN_26_AA1171	LN_26_AA1171	MS_290126_003	1F tín hiệu yếu	PCR-BD 1F						
+LN_26_AA1194	LN_26_AA1194	MS_290126_003	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA1200	LN_26_AA1200	MS_290126_003	2F nền cao	PCR-BD F109, R285a						
+LN_26_AA1214	LN_26_AA1214	MS_290126_003	3R polyAC	PCR-BD 3F, R389						
+LN_25_AA2721	LN_25_AA2721	MS_280126_002	3R ngắn	PCR-BD 3F, R389						
+LN_25_AA2798	LN_25_AA2798	MS_280126_003	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2821	LN_25_AA2821	MS_280126_003	3R nền cao	PCR-BD 3F						
+LN_25_AA2824	LN_25_AA2824	MS_280126_003	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2831	LN_25_AA2831	MS_280126_003	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2854	LN_25_AA2854	MS_280126_003	3R ngắn	PCR-BD 3F						
+LN_25_AA2862	LN_25_AA2862	MS_280126_003	3R polyC	PCR-BD 3F						
+LN_26_AA1553	LN_26_AA1553	MS_020226_002	3R polyC	PCR-BD 3F, R389						
+LN_26_AA1555	LN_26_AA1555	MS_020226_002	3R polyC (460 T-C)	PCR-BD 3F, R389						
+LN_26_AA1595	LN_26_AA1595	MS_020226_002	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA1608	LN_26_AA1608	MS_020226_002	3R polyC (460 T-C)	PCR-BD 3F, R389						
+LN_26_AA1643	LN_26_AA1643	MS_020226_003	3R polyC	PCR-BD 3F, R389						
+LN_26_AA1667	LN_26_AA1667	MS_020226_003	2F nền cao, 3R nền cao	PCR-BD F109, R285a, 3F						
+LN_26_AA1703	LN_26_AA1703	MS_020226_003	2F polyC, 3R polyC	PCR-BD F109, R285a, 3F, R389						
+LN_26_AA1756	LN_26_AA1756	MS_020226_004	2F nền cao, 3R polyC	PCR-BD F109, R285a, 3F, R389						
+LN_26_AA2138	LN_26_AA2138	MS_070226_001	3R ngắn	PCR-BD 3F, R389						
+LN_26_AA2151	LN_26_AA2151	MS_070226_001	3R nền cao	PCR-BD 3F, R389						
+LN_25_AA2660	LN_25_AA2660	MS_280126_001	2F dyeblob	PCR-BD 2F						
+LN_25_AA2665	LN_25_AA2665	MS_280126_001	3R polyC	PCR-BD 3F, R389						
+LN_25_AA2691	LN_25_AA2691	MS_280126_001	3R polyC	PCR-BD 3F, R389						
+LN_26_AA1901	LN_26_AA1901	MS_040226_003	2F fail, 3R fail	PCR-BD 2F, 3F, R389						
+LN_26_AA1824	LN_26_AA1824	MS_040226_002	3R polyC	PCR-BD 3F, R389						
+LN_26_AA1885	LN_26_AA1885	MS_040226_002	3R ngắn	PCR-BD 3R						
+LN_26_AA1886	LN_26_AA1886	MS_040226_002	3R ngắn	PCR-BD 3F, R389						
+LN_26_AA1830	LN_26_AA1830	MS_040226_002	16074.1G?	PCR-BD 1F						
+LN_26_AA1835	LN_26_AA1835	MS_040226_002	496.1?	PCR-BD 3F						
+LN_26_AA1514	LN_26_AA1514	MS_040226_001	3R polyC	PCR-BD 3F, R389						
+LN_26_AA0560	LN_26_AA0560	MS_260226_001	3R polyC	PCR-BD 3F, R389						
+LN_26_AA2178	LN_26_AA2178	MS_070226_002	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA2187	LN_26_AA2187	MS_070226_002	3R polyC	PCR-BD 3F						
+LN_26_AA2371	LN_26_AA2371	MS_100226_002	3R polyC	PCR-BD 3F, R389						
+LN_26_AA2375	LN_26_AA2375	MS_100226_002	3R polyC	PCR-BD 3F, R389						
+LN_26_AA2440	LN_26_AA2440	MS_100226_003	3R polyC	PCR-BD 3F, R389						
+LN_26_AA2510	LN_26_AA2510	MS_100226_003	3R polyC	PCR-BD 3F, R389						
+LN_26_AA2439	LN_26_AA2439	MS_100226_003	16189Y?	rePCR --> PCR-BD 1F, 1R						
+LN_26_AA2276	LN_26_AA2276	MS_100226_001	3R polyC	PCR-BD 3F, R389						
+LN_26_AA2285	LN_26_AA2285	MS_100226_001	3R polyAC	PCR-BD R389						
+LN_26_AA2316	LN_26_AA2316	MS_100226_001	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA2333	LN_26_AA2333	MS_100226_001	1F dyeblob, 16149W?	PCR-BD 1F						
+LN_26_AA2334	LN_26_AA2334	MS_100226_001	1R dyeblob	PCR-BD 1R						
+LN_26_AA2556	LN_26_AA2556	MS_100226_004	1R dyeblob	PCR-BD 1R						
+LN_26_AA2588	LN_26_AA2588	MS_100226_004	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA2602	LN_26_AA2602	MS_100226_004	16189Y?	rePCR --> PCR-BD 1F, 1R						
+LN_26_AA2651	LN_26_AA2651	MS_250226_001	16258W?	rePCR --> PCR-BD 1R						
+LN_26_AA2698	LN_26_AA2698	MS_250226_001	3R polyC	PCR-BD 3F, R389						
+LN_26_AA0641	LN_26_AA0641	MS_030326_003	3R fail	PCR-BD 3R						
+LN_26_AA0644	LN_26_AA0644	MS_030326_003	1F nền cao, 3R nền cao trước AC repeat	PCR-BD 1F, 3F						
+LN_26_AA0660	LN_26_AA0660	MS_030326_003	73A?	PCR-BD R285a						
+LN_26_AA0718	LN_26_AA0718	MS_030326_003	73A?	PCR-BD R285a						
+LN_26_AA0798	LN_26_AA0798	MS_030326_004	16104M?	rePCR --> PCR-BD 1F						
+LN_26_AA0799	LN_26_AA0799	MS_030326_004	73W?	PCR-BD R285a						
+LN_26_AA2721	LN_26_AA2721	MS_250226_002	3R dyeblob	PCR-BD 3F						
+LN_26_AA2728	LN_26_AA2728	MS_250226_002	3R nền cao (polyAC)	PCR-BD 3F, R389						
+LN_26_AA0326	LN_26_AA0326	MS_280226_004	3R polyC	PCR-BD 3F, R389						
+LN_26_AA0354	LN_26_AA0354	MS_280226_004	pea	PCR-BD 3F, R389						
+LN_26_AA2891	LN_26_AA2891	MS_250226_004	2F peak shoulder	PCR-BD 2F						
+LN_26_AA2946	LN_26_AA2946	MS_250226_004	1F dyeblob	PCR-BD 1F						
+LN_26_AA2953	LN_26_AA2953	MS_250226_004	73A?, 1F dyeblob	PCR-BD R285a, 1F						
+LN_26_AA0071	LN_26_AA0071	MS_280226_001	16111Y 16129R 16172Y 16274R 16291Y ?	Chạy lại từ bước tách -> PCR-BD 1F, 1R, 2F, 3R						
+LN_26_AA0081	LN_26_AA0081	MS_280226_001	3R polyC	PCR-BD 3F, R389						
+LN_26_AA2796	LN_26_AA2796	MS_250226_003	2F peak shoulder	PCR-BD 2F						
+LN_26_AA0389	LN_26_AA0389	MS_030326_001	73A?	PCR-BD R285a						
+LN_26_AA0422	LN_26_AA0422	MS_030326_001	73A?	PCR-BD R285a						
+LN_26_AA0188	LN_26_AA0188	MS_280226_003	3R polyAC	PCR-BD 3F						
+LN_26_AA0214	LN_26_AA0214	MS_280226_003	1F peak shoulder	PCR-BD 1F						
+LN_26_AA0240	LN_26_AA0240	MS_280226_003	1F peak shoulder	PCR-BD 1F						
+LN_26_AA0243	LN_26_AA0243	MS_280226_003	3R polyC	PCR-BD 3F, R389						
+LN_26_AA0262	LN_26_AA0262	MS_280226_003	3R polyC	PCR-BD 3F, R389						
+LN_26_AA0270	LN_26_AA0270	MS_280226_003	1F peak shoulder	PCR-BD 1F						
+LN_26_AA0930	LN_26_AA0930	MS_040326_002	1F fail, 1R fail	PCR-BD 1F, 1R						
+LN_26_AA0942	LN_26_AA0942	MS_040326_002	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA0960	LN_26_AA0960	MS_040326_002	3R polyC	PCR-BD 3F, R389						
+LN_26_AA0969	LN_26_AA0969	MS_040326_002	3R polyC	PCR-BD 3F						
+LN_26_AA0989	LN_26_AA0989	MS_040326_002	3R polyC	PCR-BD 3F, R389						
+LN_26_AA0461	LN_26_AA0461	MS_030326_002	16292Y?	PCR-BD 1R						
+LN_26_AA0506	LN_26_AA0506	MS_030326_002	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA0509	LN_26_AA0509	MS_030326_002	3R nền cao + dye blob	PCR-BD 3F						
+LN_26_AA0512	LN_26_AA0512	MS_030326_002	16365Y?	PCR-BD F16190						
+LN_26_AA0533	LN_26_AA0533	MS_030326_002	3R polyC	PCR-BD 3F, R389						
+LN_26_AA0819	LN_26_AA0819	MS_040326_001	3R polyC	PCR-BD 3F, R389						
+LN_26_AA0825	LN_26_AA0825	MS_040326_001	3R polyC	PCR-BD 3F, R389						
+LN_26_AA3078	LN_26_AA3078	MS_060326_002_V002	3R polyC	PCR-BD 3F						
+LN_26_AA3084	LN_26_AA3084	MS_060326_002_V002	3R peak shoulder	PCR-BD 3F						
+LN_26_AA3106	LN_26_AA3106	MS_060326_002_V002	Tín hiệu phức tạp	Chạy lại từ bước tách -> PCR-BD 1F, 1R, 2F, 3R						
+LN_26_AA2998	LN_26_AA2998	MS_060326_001_V001	2F ngắn	PCR-BD 2F						
+LN_26_AA3003	LN_26_AA3003	MS_060326_001_V001	2F dye blob	PCR-BD 2F						
+LN_26_AA0137	LN_26_AA0137	MS_280226_002	1R tín hiệu không rõ ràng	PCR-BD F16190						
+LN_26_AA0152	LN_26_AA0152	MS_280226_002	1R tín hiệu không rõ ràng	PCR-BD F16190						
+LN_26_AA0172	LN_26_AA0172	MS_280226_002	73A?, 3R ngắn	PCR-BD R285a, 3F, R389						
+LN_26_AA0179	LN_26_AA0179	MS_280226_002	73A?	PCR-BD R285a						
+LN_26_AA3378	LN_26_AA3378	MS_090326_001_V004	3R polyC	PCR-BD 3F, R389						
+LN_26_AA3410	LN_26_AA3410	MS_090326_001_V004	3R polyC	PCR-BD 3F, R389						
+LN_26_AA3779	LN_26_AA3779	MS_100326_001_V008	LHP ở polyC HV2 và HV1	Tách lại						
+LN_26_AA3482	LN_26_AA3482	MS_090326_002_V005	3R nền cao (polyAC)	PCR-BD 3F						
+LN_26_AA3930	LN_26_AA3930	MS_100326_003_V009	73A?	PCR-BD R285a						
+LN_26_AA3950	LN_26_AA3950	MS_100326_003_V009	3R polyC	PCR-BD 3F, R389						
+LN_26_AA3189	LN_26_AA3189	MS_060326_003_V011	3R polyC	PCR-BD 3F, R389						
+LN_26_AA3202	LN_26_AA3202	MS_060326_003_V011	2F fail, 3R polyC	PCR-BD 2F, 3F, R389						
+LN_26_AA3821	LN_26_AA3821	MS_100326_002_V010	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4065	LN_26_AA4065	MS_100326_005_V013	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4091	LN_26_AA4091	MS_100326_005_V013	2F fail	PCR-BD 2F						
+LN_26_AA4023	LN_26_AA4023	MS_100326_004_V012	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA4234	LN_26_AA4234	MS_110326_002_V015	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4315	LN_26_AA4315	MS_110326_002_V015	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4754	LN_26_AA4754	MS_120326_004_V019	LHP ở polyC HV1 (16188Y? 16189Y?)	Tách lại						
+LN_26_AA4700	LN_26_AA4700	MS_120326_004_V019	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4552	LN_26_AA4552	MS_120326_002_V017	2F, 3R nền cao	PCR-BD R285a, 3F						
+LN_26_AA4575	LN_26_AA4575	MS_120326_002_V017	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4325	LN_26_AA4325	MS_110326_003_V016	101A?	PCR-BD R285a						
+LN_26_AA4326	LN_26_AA4326	MS_110326_003_V016	3R polyC	PCR-BD 3F						
+LN_26_AA4400	LN_26_AA4400	MS_110326_003_V016	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4402	LN_26_AA4402	MS_110326_003_V016	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4148	LN_26_AA4148	MS_110326_001_V014	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4163	LN_26_AA4163	MS_110326_001_V014	1F tín hiệu yếu	PCR-BD 1F						
+LN_26_AA4174	LN_26_AA4174	MS_110326_001_V014	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4778	LN_26_AA4778	MS_130326_001_V020	LHP ở polyC HV1 (16188Y? 16189Y?)	Tách lại						
+LN_26_AA4794	LN_26_AA4794	MS_130326_001_V020	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA4824	LN_26_AA4824	MS_130326_001_V020	2F polyC	PCR-BD F109, R285a						
+LN_26_AA4834	LN_26_AA4834	MS_130326_001_V020	3R ngắn	PCR-BD 3F, R389						
+LN_26_AA4612	LN_26_AA4612	MS_120326_003_V018	1R peak shoulder	PCR-BD 1R						
+LN_26_AA4613	LN_26_AA4613	MS_120326_003_V018	2F fail	PCR-BD 2F						
+LN_26_AA4616	LN_26_AA4616	MS_120326_003_V018	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4620	LN_26_AA4620	MS_120326_003_V018	1F tín hiệu yếu	PCR-BD 1F						
+LN_26_AA4657	LN_26_AA4657	MS_120326_003_V018	73R ?	PCR-BD R285a						
+LN_26_AA4864	LN_26_AA4864	MS_130326_002_V022	3R polyC	PCR-BD 3F						
+LN_26_AA4868	LN_26_AA4868	MS_130326_002_V022	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4869	LN_26_AA4869	MS_130326_002_V022	3R polyC	PCR-BD 3F						
+LN_26_AA4873	LN_26_AA4873	MS_130326_002_V022	1F peak shoulder	PCR-BD 1F						
+LN_26_AA4875	LN_26_AA4875	MS_130326_002_V022	3R polyC	PCR-BD 3F, R389						
+LN_26_AA4950	LN_26_AA4950	MS_130326_002_V022	2F nền cao	PCR-BD R285a						
+LN_26_AA5050	LN_26_AA5050	MS_150326_002_V023	3R polyC	PCR-BD 3F						
+LN_26_AA5094	LN_26_AA5094	MS_150326_002_V023	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA5107	LN_26_AA5107	MS_150326_002_V023	152Y 198Y 16188Y 16189Y ?	Chạy lại từ bước tách -> PCR-BD 1F, 1R, 2F, 3R						
+LN_26_AA4951	LN_26_AA4951	MS_150326_001_V021	3R polyC	PCR-BD 3F, R389						
+LN_26_AA5013	LN_26_AA5013	MS_150326_001_V021	3R polyC	PCR-BD 3F, R389						
+LN_26_AA5236	LN_26_AA5236	MS_150326_004_V026	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA5276	LN_26_AA5276	MS_150326_004_V026	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA5288	LN_26_AA5288	MS_150326_004_V026	152Y 198Y? 16093Y 16188Y 16189Y ?	Chạy lại từ bước tách -> PCR-BD 1F, 1R, 2F, 3R						
+LN_26_AA5349	LN_26_AA5349	MS_160326_001_V025	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA5378	LN_26_AA5378	MS_160326_001_V025	3R dye blob	PCR-BD 3F						
+LN_26_AA5576	LN_26_AA5576	MS_160326_003_V028	2F dye blob	PCR-BD 2F						
+LN_26_AA5579	LN_26_AA5579	MS_160326_003_V028	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA5407	LN_26_AA5407	MS_160326_002_V027	3R polyC (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA5408	LN_26_AA5408	MS_160326_002_V027	3R polyC (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA5409	LN_26_AA5409	MS_160326_002_V027	3R polyC	PCR-BD 3F, R389						
+LN_26_AA5427	LN_26_AA5427	MS_160326_002_V027	LHP ở polyC HV1 (16188Y? 16189Y?)	Tách lại						
+LN_26_AA5437	LN_26_AA5437	MS_160326_002_V027	16093Y? 16129R? 16304Y? 16335R?	Tách lại						
+LN_26_AA5480	LN_26_AA5480	MS_160326_002_V027	3R polyC	PCR-BD 3F, R389						
+LN_26_AA5946	LN_26_AA5946	MS_170326_004_V034	3R polyC	PCR-BD 3F, R389						
+LN_26_AA5954	LN_26_AA5954	MS_170326_004_V034	2F nền cao	PCR-BD F109, R285a						
+LN_26_AA6030	LN_26_AA6030	MS_170326_004_V034	2F peak shoulder	PCR-BD 2F						
+LN_26_AA4462	LN_26_AA4462	MS_120326_001_V031	3R poly AC, 1R polyC (16293A-C)	PCR-BD 3F, R389, F16190, R16258						
+LN_26_AA4466	LN_26_AA4466	MS_120326_001_V031	3R polyC	PCR-BD 3F, R389						
+LN_26_AA5919	LN_26_AA5919	MS_170326_003_V033	1F tín hiệu kém + nền cao + dye blob	PCR-BD 1F						
+LN_26_AA5764	LN_26_AA5764	MS_170326_002_V032	2F peak shoulder	PCR-BD 2F						
+LN_26_AA5794	LN_26_AA5794	MS_170326_002_V032	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA5806	LN_26_AA5806	MS_170326_002_V032	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA5826	LN_26_AA5826	MS_170326_002_V032	3R polyC	PCR-BD 3F, R389						
+LN_26_AA5838	LN_26_AA5838	MS_170326_002_V032	3R polyC	PCR-BD 3F, R389						
+LN_26_AA6105	LN_26_AA6105	MS_180326_001_V035	2F fail	PCR-BD 2F						
+LN_26_AA6121	LN_26_AA6121	MS_180326_002_V036	1F, 1R fail	PCR-BD 1F, 1R						
+LN_26_AA6142	LN_26_AA6142	MS_180326_002_V036	3R ngắn + dye blob	PCR-BD 3F, R389						
+LN_26_AA6189	LN_26_AA6189	MS_180326_002_V036	3R polyC	PCR-BD 3F						
+LN_26_AA6196	LN_26_AA6196	MS_180326_002_V036	3R ngắn	PCR-BD 3R						
+LN_26_AA6222	LN_26_AA6222	MS_190326_001_V037	1F fail	PCR-BD 1F						
+LN_26_AA6258	LN_26_AA6258	MS_190326_001_V037	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA6261	LN_26_AA6261	MS_190326_001_V037	2F ngắn + polyC	PCR-BD 2F						
+LN_26_AA6272	LN_26_AA6272	MS_190326_001_V037	189R? 16129R? 16182M? 16265R? 16304Y?; 3R nền cao (AC repeat) + peak shoulder	Chạy lại từ bước tách -> PCR-BD 1F, 1R, 2F 3F, R389						
+LN_26_AA6296	LN_26_AA6296	MS_190326_001_V037	3R polyC	PCR-BD 3F, R389						
+LN_26_AA6300	LN_26_AA6300	MS_190326_001_V037	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA6384	LN_26_AA6384	MS_190326_002_V038	2F nền cao	PCR-BD F109, R285a						
+LN_26_AA6630	LN_26_AA6630	MS_200326_001_V041	3R tín hiệu yếu	PCR-BD 3F						
+LN_26_AA6652	LN_26_AA6652	MS_200326_001_V041	2F dye blob	PCR-BD 2F						
+LN_26_AA6818	LN_26_AA6818	MS_200326_003_V042	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA6832	LN_26_AA6832	MS_200326_003_V042	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA6695	LN_26_AA6695	MS_200326_002_V044	3R polyC	PCR-BD 3F, R389						
+LN_26_AA6704	LN_26_AA6704	MS_200326_002_V044	LHP ở polyC HV1 (16188Y? 16189Y?)	Hoãn trả KQ						
+LN_26_AA6739	LN_26_AA6739	MS_200326_002_V044	3R polyC	PCR-BD 3F, R389						
+LN_26_AA6743	LN_26_AA6743	MS_200326_002_V044	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA6411	LN_26_AA6411	MS_190326_003_V039	3R tín hiệu yếu	PCR-BD 3F, R389						
+LN_26_AA6425	LN_26_AA6425	MS_190326_003_V039	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA6446	LN_26_AA6446	MS_190326_003_V039	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA6456	LN_26_AA6456	MS_190326_003_V039	3R polyC	PCR-BD 3F, R389						
+LN_26_AA6469	LN_26_AA6469	MS_190326_003_V039	2F peak shoulder	PCR-BD 2F						
+LN_26_AA7040	LN_26_AA7040	MS_200326_006_V046	LHP ở polyC HV1 (16188Y? 16189Y?)	Hoãn trả KQ						
+LN_26_AA6909	LN_26_AA6909	MS_200326_004_V043	3R polyC	PCR-BD 3F						
+LN_26_AA7127	LN_26_AA7127	MS_230326_001_V047	3R tín hiệu yếu, LHP ở polyC HV1 (16188Y? 16189Y?)	PCR-BD 3F, R389						
+LN_26_AA7149	LN_26_AA7149	MS_230326_001_V047	2F nền cao	PCR-BD F109, R285a						
+LN_26_AA7192	LN_26_AA7192	MS_230326_001_V047	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA7135	LN_26_AA7135	MS_230326_001_V047	16187Y 16188Y -> 16188Y 16189Y 16193.1C (LHP ở polyC HV1 (16188Y? 16189Y?) -> Hoãn trả KQ)							
+LN_26_AA7205	LN_26_AA7205	MS_230326_002_V048	3R ngắn	PCR-BD 3F, R389						
+LN_26_AA7209	LN_26_AA7209	MS_230326_002_V048	2F nền cao	PCR-BD F109, R285a						
+LN_26_AA7245	LN_26_AA7245	MS_230326_002_V048	1R fail	PCR-BD 1R						
+LN_26_AA7247	LN_26_AA7247	MS_230326_002_V048	3R polyC	PCR-BD 3F, R389						
+LN_26_AA7381	LN_26_AA7381	MS_230326_004_V050	2F nhiễu	PCR-BD F109, R285a						
+LN_26_AA7424	LN_26_AA7424	MS_230326_004_V050	2F nhiễu	PCR-BD F109, R285a						
+LN_26_AA7493	LN_26_AA7493	MS_230326_005_V051	1F tín hiệu phức tạp	PCR-BD 1F						
+LN_26_AA7525	LN_26_AA7525	MS_230326_005_V051	2F tín hiệu phức tạp 310Y?	PCR-BD F109, R285a						
+LN_26_AA7535	LN_26_AA7535	MS_230326_005_V051	2F peak shoulder	PCR-BD 2F						
+LN_26_AA7548	LN_26_AA7548	MS_230326_005_V051	3R tín hiệu phức tạp	PCR-BD 3F, R389						
+LN_26_AA7584	LN_26_AA7584	MS_230326_006_V052	3R polyC (499G-C)	PCR-BD 3F, R389						
+LN_26_AA7018	LN_26_AA7018	MS_200326_005_V045	2F polyC	PCR-BD F109, R285a						
+LN_26_AA7696	LN_26_AA7696	MS_240326_001_V053	2F peak shoulder	PCR-BD 2F						
+LN_26_AA7712	LN_26_AA7712	MS_240326_001_V053	2F peak shoulder	PCR-BD 2F						
+LN_26_AA7725	LN_26_AA7725	MS_240326_001_V053	3R polyC	PCR-BD 3F, R389						
+LN_26_AA7754	LN_26_AA7754	MS_240326_002_V054	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA7761	LN_26_AA7761	MS_240326_002_V054	3R polyC	PCR-BD 3F, R389						
+LN_26_AA7764	LN_26_AA7764	MS_240326_002_V054	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA7777	LN_26_AA7777	MS_240326_002_V054	2F nhiễu	PCR-BD 2F						
+LN_26_AA7786	LN_26_AA7786	MS_240326_002_V054	3R polyC	PCR-BD 3F, R389						
+LN_26_AA7805	LN_26_AA7805	MS_240326_002_V054	3R polyC	PCR-BD 3F, R389						
+LN_26_AA7880	LN_26_AA7880	MS_240326_003_V055	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA7905	LN_26_AA7905	MS_240326_003_V055	3R polyC	PCR-BD 3F, R389						
+LN_26_AA8061	LN_26_AA8061	MS_240326_005_V057	3R polyC	PCR-BD 3F, R389						
+LN_26_AA8321	LN_26_AA8321	MS_260326_002_V060	1R tín hiệu giảm đột ngột	PCR-BD 1R						
+LN_26_AA8359	LN_26_AA8359	MS_260326_002_V060	3R polyC	PCR-BD 3F, R389						
+LN_26_AA8394	LN_26_AA8394	MS_260326_003_V061	3R polyC	PCR-BD 3F						
+LN_26_AA8453	LN_26_AA8453	MS_260326_003_V061	3R polyC	PCR-BD 3F						
+LN_26_AA8490	LN_26_AA8490	MS_260326_004_V062	3R nền cao	PCR-BD 3F, R389						
+LN_26_AA8656	LN_26_AA8656	MS_260326_006_V064	2F fail	PCR-BD 2F						
+LN_26_AA8772	LN_26_AA8772	MS_280326_001_V065	3R polyC	PCR-BD 3F, R389						
+LN_26_AA8773	LN_26_AA8773	MS_280326_001_V065	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9137	LN_26_AA9137	MS_290326_001_V069	2F peak shoulder	PCR-BD 2F						
+x	LN_26_AB1609	MS_010426_001_V070	3R polyC	PCR-BD 3F, R389	MS_010426_001_V070_2 samples	73-340 438-575 16024-16365				
+x	LN_26_AB1612	MS_010426_001_V070	2F dyeblob + nền cao	PCR-BD F109, R285a	MS_010426_001_V070_2 samples					
+LN_26_AA9012	LN_26_AA9012	MS_280326_004_V068	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9026	LN_26_AA9026	MS_280326_004_V068	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9051	LN_26_AA9051	MS_280326_004_V068	3R polyC	PCR-BD 3F						
+LN_26_AA9055	LN_26_AA9055	MS_280326_004_V068	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9182	LN_26_AA9182	MS_290326_002_V071	1R tín hiệu yếu	PCR-BD 1R						
+LN_26_AA9183	LN_26_AA9183	MS_290326_002_V071	1R tín hiệu yếu	PCR-BD 1R						
+LN_26_AA9184	LN_26_AA9184	MS_290326_002_V071	2F peak shoulder	PCR-BD 2F						
+LN_26_AA9196	LN_26_AA9196	MS_290326_002_V071	2F peak shoulder	PCR-BD 2F						
+LN_26_AA9203	LN_26_AA9203	MS_290326_002_V071	3R peak shoulder	PCR-BD 3F, R389						
+LN_26_AA9224	LN_26_AA9224	MS_290326_002_V071	2F peak shoulder	PCR-BD 2F						
+LN_26_AA9225	LN_26_AA9225	MS_290326_002_V071	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9229	LN_26_AA9229	MS_290326_002_V071	3R polyC	PCR-BD 3F						
+LN_26_AA9252	LN_26_AA9252	MS_290326_002_V071	3R polyC	PCR-BD 3F						
+LN_26_AA9259	LN_26_AA9259	MS_290326_002_V071	2F fail	PCR-BD 2F						
+LN_26_AA9261	LN_26_AA9261	MS_290326_002_V071	3R peak shoulder	PCR-BD 3F, R389						
+LN_26_AA9279	LN_26_AA9279	MS_290326_003_V072	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA9285	LN_26_AA9285	MS_290326_003_V072	146Y? 150Y? 16295Y?	Tách lại						
+x	2553815	20260407_mtDNA_315	3R polyC	PCR-BD 3F, R389	20260411_mtDNA_315_1 mẫu	73-340 438-573 16024-16365				
+x	LN_26_AB1620	MS_040426_001_V082	1F dyeblob + nền cao	PCR-BD 1F	MS_040426_001_5 mẫu					
+x	LN_26_AB1628	MS_040426_001_V082	1F dyeblob + nền cao	PCR-BD 1F	MS_040426_001_5 mẫu					
+x	LN_26_AB1835	MS_040426_001_V082	507K?	PCR-BD 3F	MS_040426_001_5 mẫu					
+x	LN_26_AB1851	MS_040426_001_V082	1F fail	PCR-BD 1F	MS_040426_001_5 mẫu					
+x	LN_26_AB1856	MS_040426_001_V082	3R polyC	PCR-BD 3F, R389	MS_040426_001_5 mẫu	73-340 438-573 16024-16365				
+LN_26_AA9779	LN_26_AA9779	MS_310326_001_V075	3R ngắn	PCR-BD 3F, R389						
+LN_26_AA9657	LN_26_AA9657	MS_300326_004_V074	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA9445	LN_26_AA9445	MS_300326_001_V076	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9832	LN_26_AA9832	MS_310326_002_V077	3R polyAC	PCR-BD 3F, R389						
+LN_26_AA9863	LN_26_AA9863	MS_310326_002_V077	3R polyC	PCR-BD 3F						
+LN_26_AA9864	LN_26_AA9864	MS_310326_002_V077	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9868	LN_26_AA9868	MS_310326_002_V077	2F nền cao, 3R polyC	PCR-BD R285a, 3F, R389						
+LN_26_AA9871	LN_26_AA9871	MS_310326_002_V077	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9875	LN_26_AA9875	MS_310326_002_V077	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9883	LN_26_AA9883	MS_310326_002_V077	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9904	LN_26_AA9904	MS_310326_003_V078	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9923	LN_26_AA9923	MS_310326_003_V078	3R poly AC	PCR-BD 3F, R389						
+LN_26_AA9931	LN_26_AA9931	MS_310326_003_V078	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9961	LN_26_AA9961	MS_310326_003_V078	2F nền cao	PCR-BD R285a						
+LN_26_AA9974	LN_26_AA9974	MS_310326_003_V078	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9468	LN_26_AA9468	MS_300326_002_V081	2F nền cao, 3R polyC	PCR-BD R285a, 3F, R389						
+LN_26_AA9481	LN_26_AA9481	MS_300326_002_V081	2F nền cao, 3R polyC, 16360Y?	PCR-BD F109, R285a, 3F, R389, 1R						
+LN_26_AA9482	LN_26_AA9482	MS_300326_002_V081	2F nền cao, 3R polyC	PCR-BD F109, R285a, 3F, R389						
+LN_26_AA9490	LN_26_AA9490	MS_300326_002_V081	3R ngắn	PCR-BD 3F, R389						
+LN_26_AA9492	LN_26_AA9492	MS_300326_002_V081	2F nền cao, 3R polyC	PCR-BD R285a, 3F, R389						
+LN_26_AA9497	LN_26_AA9497	MS_300326_002_V081	3R ngắn	PCR-BD 3F, R389						
+LN_26_AB0004	LN_26_AB0004	MS_310326_004_V079	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0010	LN_26_AB0010	MS_310326_004_V079	2F polyC, 3R polyC	PCR-BD F109, R285a, 3F, R389						
+LN_26_AB0031	LN_26_AB0031	MS_310326_004_V079	3R polyC	PCR-BD 3F						
+LN_26_AB0060	LN_26_AB0060	MS_310326_004_V079	3R polyC	PCR-BD 3F						
+LN_26_AB0072	LN_26_AB0072	MS_310326_004_V079	2F dyeblob + ngắn	PCR-BD 2F						
+LN_26_AB0090	LN_26_AB0090	MS_310326_005_V083	1F nền cao + dyeblob	PCR-BD 1F						
+LN_26_AB0104	LN_26_AB0104	MS_310326_005_V083	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0117	LN_26_AB0117	MS_310326_005_V083	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AB0140	LN_26_AB0140	MS_310326_005_V083	1F nền cao + dyeblob	PCR-BD 1F						
+LN_26_AB0174	LN_26_AB0174	MS_310326_006_V084	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0180	LN_26_AB0180	MS_310326_006_V084	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0190	LN_26_AB0190	MS_310326_006_V084	3R nền cao	PCR-BD 3F, R389						
+LN_26_AB0217	LN_26_AB0217	MS_310326_006_V084	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0272	LN_26_AB0272	MS_030426_001_V085	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0320	LN_26_AB0320	MS_030426_001_V085	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0325	LN_26_AB0325	MS_030426_001_V085	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AB0334	LN_26_AB0334	MS_030426_001_V085	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AA9547	LN_26_AA9547	MS_300326_003_V073	2F nền cao	PCR-BD R285a						
+LN_26_AA9573	LN_26_AA9573	MS_300326_003_V073	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9574	LN_26_AA9574	MS_300326_003_V073	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9575	LN_26_AA9575	MS_300326_003_V073	3R polyC	PCR-BD 3F, R389						
+LN_26_AA9576	LN_26_AA9576	MS_300326_003_V073	1F dyeblob	PCR-BD 1F						
+LN_26_AB0357	LN_26_AB0357	MS_030426_002_V086	2F nền cao, 3R fail	PCR-BD F109, R285a, 3F						
+LN_26_AB0373	LN_26_AB0373	MS_030426_002_V086	507K?	PCR-BD 3F						
+LN_26_AB0377	LN_26_AB0377	MS_030426_002_V086	158W?	PCR-BD 2F						
+LN_26_AB0381	LN_26_AB0381	MS_030426_002_V086	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0921	LN_26_AB0921	MS_060426_004_V090	3R polyC (460T-C) + polyAC	PCR-BD 3F, R389						
+LN_26_AB0960	LN_26_AB0960	MS_060426_004_V090	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0971	LN_26_AB0971	MS_060426_004_V090	3R không có peak G(C) + tín hiệu yếu	PCR-BD 3F, R389						
+LN_26_AB0993	LN_26_AB0993	MS_060426_004_V090	3R ngắn	PCR-BD 3F, R389						
+LN_26_AB0994	LN_26_AB0994	MS_060426_004_V090	3R polyC	PCR-BD 3F						
+LN_26_AB0999	LN_26_AB0999	MS_060426_004_V090	3R polyC (460T-C) + polyAC	PCR-BD 3F, R389						
+LN_26_AB1795	LN_26_AB1795	MS_060426_002_V089	3R nền cao (AC repeat)	PCR-BD 3F, R389						
+LN_26_AB1039	LN_26_AB1039	MS_080426_003_V092	3R polyAC	PCR-BD 3F, R389						
+LN_26_AB1089	LN_26_AB1089	MS_080426_003_V092	3R polyC	PCR-BD 3F						
+LN_26_AB0868	LN_26_AB0868	MS_060426_003_V088	3R polyC, 2F nền cao	PCR-BD 3F, R389, R285a						
+LN_26_AB0869	LN_26_AB0869	MS_060426_003_V088	3R polyC	PCR-BD 3F, R389						
+LN_26_AB2116	LN_26_AB2116	MS_080426_002_V091	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0478	LN_26_AB0478	MS_030426_003_V093	3R nền cao, 2F peak spike	PCR-BD 3F, R389, 2F						
+LN_26_AB0749	LN_26_AB0749	MS_030426_006_V094	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0772	LN_26_AB0772	MS_030426_006_V094	LHP ở polyC HV1 (16188Y? 16189Y?)	Tách lại						
+LN_26_AB0784	LN_26_AB0784	MS_030426_006_V094	3R polyC, 2F nền cao	PCR-BD 3F, R389, R285a						
+LN_26_AB0800	LN_26_AB0800	MS_030426_006_V094	183.1C?	PCR-BD 2F						
+LN_26_AB0804	LN_26_AB0804	MS_030426_006_V094	3R polyC	PCR-BD 3F, R389						
+LN_26_AB0818	LN_26_AB0818	MS_030426_006_V094	2F nền cao	PCR-BD R285a						
+LN_26_AB2972	LN_26_AB2972	MS_100426_001_V098	2F nền cao, 3R polyC	PCR-BD R285a, 3F, R389						
+LN_26_AB3029	LN_26_AB3029	MS_100426_001_V098	1F nền cao	PCR-BD 1F						
+LN_26_AB3032	LN_26_AB3032	MS_100426_001_V098	2F nền cao, 3R nền cao	PCR-BD R285a, 3F						
+LN_26_AB3049	LN_26_AB3049	MS_100426_001_V098	2F nền cao, 3R polyC	PCR-BD R285a, 3F						
+LN_26_AB1700	LN_26_AB1700	MS_060426_001_V087	3R polyC, 2F nền cao	PCR-BD 3F, R389, R285a						
+LN_26_AB1689	LN_26_AB1689	MS_060426_001_V087	3R nền cao	PCR-BD 3F, R389						
+LN_26_AB1691	LN_26_AB1691	MS_060426_001_V087	3R nền cao (AC repeat)	PCR-BD 3F						
+0										
+0										
+0										
+0										
+0										
+0										
+0										
+0										
+0										
+0										
