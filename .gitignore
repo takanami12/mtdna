@@ -1,0 +1,34 @@
+# Data
+data/
+metadata_rerun.tsv
+pipeline_results/
+*.tar.gz
+*.abif
+*.ab1
+*.json
+
+# Outputs
+checkpoints/
+plots/
+hotspot_analysis/
+*.csv
+*.tsv
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
